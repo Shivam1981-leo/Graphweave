@@ -1,0 +1,11 @@
+networkx
+spacy
+transformers
+arxiv
+pymupdf
+sentence-transformers
+streamlit
+streamlit-agraph
+plotly
+torch
+requests

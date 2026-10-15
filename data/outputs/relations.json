@@ -1,0 +1,2543 @@
+[
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "This framework was evaluated using real patient data from an electronic health record.",
+    "paper": "1301.2158v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2202.12678v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2304.04780v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2204.10358v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2306.04338v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The viability of such a platform was evaluated on the FEVER dataset.",
+    "paper": "2110.10780v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "N3C",
+    "type": "IMPROVES",
+    "evidence": "As part of our assessment of the impact of single vs. multi-site NLP algorithm development, we evaluated the performance of both an NLP ruleset developed solely using a single site\u2019s clinical narratives as well as one further refined using a synthetic derived dataset sourced from three sites (Mayo, UKen, and UMN).",
+    "paper": "2110.10780v3"
+  },
+  {
+    "subject": "N3C",
+    "object": "CRAG",
+    "type": "USES",
+    "evidence": "The viability of such a platform was evaluated on a COVID-19 use case through sites participating in the National COVID Cohort Collaborative (N3C)",
+    "paper": "2110.10780v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2004.03722v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2410.11896v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2002.04803v2"
+  },
+  {
+    "subject": "torchdistill",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2310.17644v1"
+  },
+  {
+    "subject": "torchdistill",
+    "object": "Hugging Face Libraries",
+    "type": "USES",
+    "evidence": "We reproduce the GLUE benchmark results of BERT models using a script based on the upgraded torchdistill, harmonizing with various Hugging Face libraries.",
+    "paper": "2310.17644v1"
+  },
+  {
+    "subject": "torchdistill",
+    "object": "Initial Design",
+    "type": "IMPROVES",
+    "evidence": "The initial framework is well generalized and supports 18 different knowledge distillation methods implemented in a unified way, but the implementation of the initial framework is highly dependent on torchvision, a package for popular datasets, model architectures, and common image transformations for computer vision tasks.",
+    "paper": "2310.17644v1"
+  },
+  {
+    "subject": "torchdistill",
+    "object": "GLUE",
+    "type": "EVALUATES_ON",
+    "evidence": "We demonstrate that the upgraded torchdistill and a new script harmonize with Hugging Face Transformers, Datasets, Accelerate, and Evaluate to reproduce the GLUE test results reported in (Devlin et al., 2019) by fine-tuning pre-trained BERT-Base and BERT-Large models with the upgraded torchdistill.",
+    "paper": "2310.17644v1"
+  },
+  {
+    "subject": "MerLin",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "MerLin was designed to evaluate photonic QML models on the FEVER dataset.",
+    "paper": "2602.11092v2"
+  },
+  {
+    "subject": "PennyLane",
+    "object": "DeepQuantum",
+    "type": "USED_BY",
+    "evidence": "DeepQuantum used PennyLane for differentiable quantum programming.",
+    "paper": "2602.11092v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2304.13269v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2304.02381v2"
+  },
+  {
+    "subject": "ENERGY LANDSCAPES",
+    "object": "METHODS",
+    "type": "USES",
+    "evidence": "Energy landscapes methods were employed to study machine learning.",
+    "paper": "2304.02381v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The proposed approach offers valuable insights for researchers, practitioners, and funding agencies interested in identifying and supporting talented researchers.",
+    "paper": "2407.14559v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We conducted a benchmark study to assess the performance of different applicable machine learning approaches on three different datasets where we accumulated the largest and most diversi\ufb01ed one.",
+    "paper": "1905.04749v2"
+  },
+  {
+    "subject": "BERT",
+    "object": "fake news detection",
+    "type": "IMPROVES",
+    "evidence": "We explored advanced pre-trained language models for fake news detection along with the traditional and deep learning ones and compared their performances from different aspects for the \ufb01rst time to the best of our knowledge.",
+    "paper": "1905.04749v2"
+  },
+  {
+    "subject": "RoBERTa",
+    "object": "fake news detection",
+    "type": "IMPROVES",
+    "evidence": "We investigated pre-trained models like BERT, DistilBERT, RoBERTa, ELECTRA, and ELMo. Overall, these models outperform traditional and deep learning ones.",
+    "paper": "1905.04749v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2201.12150v2"
+  },
+  {
+    "subject": "LAIP",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "LAIP was evaluated on the FEVER dataset.",
+    "paper": "1812.04814v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1703.06597v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2303.15563v1"
+  },
+  {
+    "subject": "ResNet",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The classification performance of the ResNet model was evaluated using an initial dataset of 27,000 safety occurrence reports from the NTSB.",
+    "paper": "2501.06564v1"
+  },
+  {
+    "subject": "sRNN",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The classification performance of the sRNN model was also evaluated using the same FEVER dataset.",
+    "paper": "2501.06564v1"
+  },
+  {
+    "subject": "ResNet",
+    "object": "Flight phase classification",
+    "type": "IMPROVES",
+    "evidence": "The ResNet model achieved an accuracy exceeding 68%, well above the random guess rate of 14% for a seven-class classification problem.",
+    "paper": "2501.06564v1"
+  },
+  {
+    "subject": "PyThaiNLP",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2312.04649v1"
+  },
+  {
+    "subject": "NLTK",
+    "object": "THAI",
+    "type": "DOES_NOT_SUPPORT",
+    "evidence": "NLTK did not support Thai.",
+    "paper": "2312.04649v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2310.17010v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "BERT",
+    "type": "USES",
+    "evidence": "We first compute the sentence embedding using a pretrained language models BERT (Reimers and Gurevych, 2019)",
+    "paper": "2310.17010v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "GPT2",
+    "type": "USES",
+    "evidence": "Then, we utilize a prototypical layer to measure the similarity between the sentence embedding and learned prototypes.",
+    "paper": "2310.17010v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "MPNet",
+    "type": "USES",
+    "evidence": "These prototypes act as learned prototypical points in the embedding space, representing the different classes, to which they have been assigned equally.",
+    "paper": "2310.17010v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "RoBERTa",
+    "type": "USES",
+    "evidence": "The similarity scores are multiplied by the learned prototype weights to arrive at the final, inherently interpretable prediction.",
+    "paper": "2310.17010v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "AG News",
+    "type": "EVALUATES_ON",
+    "evidence": "Our proposed method not only improves predictive performance on the AG News and RT Polarity datasets over a previous prototype-based approach, but also improves the faithfulness of explanations compared to rationale-based recurrent convolutions.",
+    "paper": "2310.17010v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "RT Polarity",
+    "type": "EVALUATES_ON",
+    "evidence": "Our proposed method not only improves predictive performance on the AG News and RT Polarity datasets over a previous prototype-based approach, but also improves the faithfulness of explanations compared to rationale-based recurrent convolutions.",
+    "paper": "2310.17010v1"
+  },
+  {
+    "subject": "BRON",
+    "object": "ATT&CK",
+    "type": "USES",
+    "evidence": "BRON is an amalgamation of ATT&CK.",
+    "paper": "2108.02618v1"
+  },
+  {
+    "subject": "BRON",
+    "object": "CAPEC",
+    "type": "USES",
+    "evidence": "BRON uses CAPEC.",
+    "paper": "2108.02618v1"
+  },
+  {
+    "subject": "BRON",
+    "object": "CWE",
+    "type": "USES",
+    "evidence": "BRON uses CWE.",
+    "paper": "2108.02618v1"
+  },
+  {
+    "subject": "BRON",
+    "object": "CVE",
+    "type": "USES",
+    "evidence": "BRON uses CVE.",
+    "paper": "2108.02618v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "BRON",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the BRON dataset.",
+    "paper": "2108.02618v1"
+  },
+  {
+    "subject": "Bayesian Reflex",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The Bayesian reflex was evaluated on the FEVER dataset.",
+    "paper": "2608.00492v1"
+  },
+  {
+    "subject": "Predictive Coding",
+    "object": "Bayesian Reflex",
+    "type": "INSPIRES",
+    "evidence": "The Bayesian reflex is a computational framework that directly instantiates predictive coding principles in artificial systems.",
+    "paper": "2608.00492v1"
+  },
+  {
+    "subject": "Ellipsoidal Decomposition Framework",
+    "object": "Near-Exact I.I.D. Sampling",
+    "type": "PROVIDES",
+    "evidence": "The ellipsoidal decomposition framework provides near-exact i.i.d. sampling from arbitrary posteriors.",
+    "paper": "2608.00492v1"
+  },
+  {
+    "subject": "Recursive Gaussian Processes",
+    "object": "Deep Predictive Coding with Exact Inference",
+    "type": "PROVIDES",
+    "evidence": "Recursive Gaussian processes provide deep predictive coding with exact inference.",
+    "paper": "2608.00492v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2307.10652v5"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2105.04026v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2603.18914v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We extracted a dataset of 404,627 tweets from Twitter users using the platform\u2019s API and classified them based on whether they were written by individuals claiming to have ASD (ASD users) or by those without ASD (non-ASD users). From this dataset, we used a subset of 90,000 tweets (45,000 from each classification group) for the training and testing of these models.",
+    "paper": "2403.03581v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2605.00839v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1304.3429v1"
+  },
+  {
+    "subject": "Enterprise AI Canvas",
+    "object": "Business Model Canvas",
+    "type": "USES",
+    "evidence": "The Enterprise AI canvas is designed to bring Data Scientist and business expert together to discuss and de\ufb01ne all relevant aspects which need to be clari\ufb01ed in order to integrate AI based systems into a digital enterprise.",
+    "paper": "2009.11190v1"
+  },
+  {
+    "subject": "Enterprise AI Canvas",
+    "object": "Machine Learning Canvas",
+    "type": "USES",
+    "evidence": "The Enterprise AI canvas aims to ask all relevant questions which need to be addressed to \ufb01rst identify the most promising use-cases which bring value to the company and its customers, as well as more technical detail regarding the underlying data and machine learning model.",
+    "paper": "2009.11190v1"
+  },
+  {
+    "subject": "Enterprise AI Canvas",
+    "object": "AI Project Canvas",
+    "type": "USES",
+    "evidence": "At \ufb01rst glance it might be tempting to hand the Business Model Canvas [7, 8] or the AI Project Canvas [12] to business experts or project managers and then the Machine Learning Canvas [9] to Data Scientists in the next step.",
+    "paper": "2009.11190v1"
+  },
+  {
+    "subject": "MEMe",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We showcase the effectiveness of the proposed algorithm by applying it to log determinant estimation [4\u20136] and entropy term approximation in the information-theoretic Bayesian optimisation [7\u20139].",
+    "paper": "1906.01101v1"
+  },
+  {
+    "subject": "MEMe",
+    "object": "existing machine learning algorithms",
+    "type": "IMPROVES",
+    "evidence": "Based on this robust algorithm, we develop a new Maximum Entropy Method (MEMe) which improves upon the scalability of existing machine learning algorithms by efficiently approximating computational bottlenecks using maximum entropy and fast moment estimation techniques;",
+    "paper": "1906.01101v1"
+  },
+  {
+    "subject": "Rule of Thumb",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "ROT was evaluated on the FEVER dataset.",
+    "paper": "2608.10766v2"
+  },
+  {
+    "subject": "Bias-Aware Methodology",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The authors propose a bias-aware methodology for NLP research, which they demonstrate with a case study on archival metadata descriptions.",
+    "paper": "2011.05911v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2404.12511v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2108.11451v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2405.10845v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "WordSim353",
+    "type": "EVALUATES_ON",
+    "evidence": "The datasets WordSim353, SimLex999 and SimVerb3500 are used in the experiments to compare the state-of-the-art word embeddings.",
+    "paper": "2005.03812v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "SimLex999",
+    "type": "EVALUATES_ON",
+    "evidence": "The datasets WordSim353, SimLex999 and SimVerb3500 are used in the experiments to compare the state-of-the-art word embeddings.",
+    "paper": "2005.03812v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "SimVerb3500",
+    "type": "EVALUATES_ON",
+    "evidence": "The datasets WordSim353, SimLex999 and SimVerb3500 are used in the experiments to compare the state-of-the-art word embeddings.",
+    "paper": "2005.03812v1"
+  },
+  {
+    "subject": "Word2Vec",
+    "object": "CRAG",
+    "type": "USED_IN",
+    "evidence": "These pre-trained embeddings are used in the experiments.",
+    "paper": "2005.03812v1"
+  },
+  {
+    "subject": "OAK4XAI",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "The proposed approach, however, focuses on providing consistent information and definitions of concepts, algorithms, and values involved in the data mining models.",
+    "paper": "2209.15104v1"
+  },
+  {
+    "subject": "OAK4XAI",
+    "object": "AgriComO",
+    "type": "EVALUATES_ON",
+    "evidence": "We built an Agriculture Computing Ontology (AgriComO) to explain the knowledge mined in agriculture.",
+    "paper": "2209.15104v1"
+  },
+  {
+    "subject": "OAK4XAI",
+    "object": "Explainable AI",
+    "type": "IMPROVES",
+    "evidence": "The proposed approach, OAK4XAI, is a model towards out-of-box eXplainable Artificial Intelligence for Digital Agriculture.",
+    "paper": "2209.15104v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2110.08637v1"
+  },
+  {
+    "subject": "Random Forest",
+    "object": "Malicia project",
+    "type": "EVALUATES_ON",
+    "evidence": "Random Forest was evaluated on the Malicia dataset.",
+    "paper": "1809.05889v1"
+  },
+  {
+    "subject": "Deep Neural Network (DNN)",
+    "object": "Malicia project",
+    "type": "EVALUATES_ON",
+    "evidence": "Deep Neural Network (DNN) was evaluated on the Malicia dataset.",
+    "paper": "1809.05889v1"
+  },
+  {
+    "subject": "Random Forest",
+    "object": "Deep Neural Network (DNN)",
+    "type": "OUTPERFORMS",
+    "evidence": "The classical RF accuracy outperforms the DNN.",
+    "paper": "1809.05889v1"
+  },
+  {
+    "subject": "ALERT-Transformer",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The ALERT-Transformer was evaluated on the FEVER dataset.",
+    "paper": "2402.01393v3"
+  },
+  {
+    "subject": "ALERT-Transformer",
+    "object": "PointNet",
+    "type": "USES",
+    "evidence": "The ALERT-Transformer uses PointNet as an embedding based on PointNet models \u2013 the ALERT module \u2013 that can continuously integrate new and dismiss old events thanks to a leakage mechanism.",
+    "paper": "2402.01393v3"
+  },
+  {
+    "subject": "ALERT-Transformer",
+    "object": "event-based data processing",
+    "type": "IMPROVES",
+    "evidence": "The ALERT-Transformer improves event-based data processing by introducing novel asynchronous embedding updates, flexible readout of the embedded data that can feed any downstream model with up-to-date features at different sampling rates, and a patch-based approach inspired by Vision Transformer to exploit input sparsity and optimize efficiency.",
+    "paper": "2402.01393v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2310.09243v1"
+  },
+  {
+    "subject": "PGM",
+    "object": "ACD",
+    "type": "USED_IN",
+    "evidence": "The illustrative example is a PGM trained for making a data-driven replica of the building energy model used by the Dutch government.",
+    "paper": "2310.09243v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2101.04255v6"
+  },
+  {
+    "subject": "SMART",
+    "object": "DATASET",
+    "type": "USES",
+    "evidence": "The vector model of the SMART retrieval system uses a term-document matrix.",
+    "paper": "2101.04255v6"
+  },
+  {
+    "subject": "CRAG",
+    "object": "MYCIN",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the MYCIN dataset.",
+    "paper": "1407.7281v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "INTERNIST-I",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was also evaluated on the INTERNIST-I dataset.",
+    "paper": "1407.7281v1"
+  },
+  {
+    "subject": "MYCIN",
+    "object": "CRAG",
+    "type": "USES",
+    "evidence": "MYCIN implicitly assumed modularity in reasoning with uncertainty, which is a property of CRAG.",
+    "paper": "1407.7281v1"
+  },
+  {
+    "subject": "INTERNIST-I",
+    "object": "CRAG",
+    "type": "USES",
+    "evidence": "INTERNIST-I also implicitly assumed modularity in reasoning with uncertainty, which is a property of CRAG.",
+    "paper": "1407.7281v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1809.07842v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2106.05160v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2411.05026v3"
+  },
+  {
+    "subject": "MAST",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "MAST was evaluated on the FEVER dataset.",
+    "paper": "2111.02001v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1904.10922v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "MIMIC-III",
+    "type": "EVALUATES_ON",
+    "evidence": "Data for this study was a subset extracted from the public accessible critical care database, named MIMIC-III.",
+    "paper": "1910.02545v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2011.01103v1"
+  },
+  {
+    "subject": "DBPedia",
+    "object": "Natural Language Processing and Machine Learning methods",
+    "type": "USES",
+    "evidence": "DBPedia uses Natural Language Processing and Machine Learning methods for extracting entities and relationships from research publications.",
+    "paper": "2011.01103v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2009.13250v1"
+  },
+  {
+    "subject": "POLARIS",
+    "object": "SROIE",
+    "type": "EVALUATES_ON",
+    "evidence": "POLARIS achieves a micro-F1 of 0.81 on the SROIE dataset.",
+    "paper": "2601.11816v1"
+  },
+  {
+    "subject": "HIT-AI",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "This paper propose Human-in-the-loop Arti\ufb01cial Intelligence (HIT-AI) as a novel paradigm for a responsible Arti\ufb01cial Intelligence.",
+    "paper": "1710.08191v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2111.07508v1"
+  },
+  {
+    "subject": "EML",
+    "object": "CRAG",
+    "type": "USES",
+    "evidence": "EML methods are developed to provide improved agricultural trade predictions, outlier events' implications, and quantitative pointers to policy makers.",
+    "paper": "2111.07508v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2601.06064v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1908.10345v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1702.00137v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2403.08425v3"
+  },
+  {
+    "subject": "INNA",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "Our algorithm allows for using an aggressive learning rate of o(1/ log k) on popular deep learning benchmark problems, including FEVER.",
+    "paper": "1905.12278v6"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The CRAG method was evaluated on the FEVER dataset.",
+    "paper": "2407.10978v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The audit catalog can be applied to low-risk applications within the scope of supervised learning as commonly encountered in industry.",
+    "paper": "2103.16910v1"
+  },
+  {
+    "subject": "SCANet",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The average cross-validated ROC-AUC of SCANet was 77.33 \u00b1 3.9% on the FEVER dataset.",
+    "paper": "2302.04143v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2004.04686v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2608.18110v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1706.01513v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2107.03178v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1907.12669v1"
+  },
+  {
+    "subject": "LIME",
+    "object": "CRAG",
+    "type": "USES",
+    "evidence": "The LIME model uses CRAG as a post-hoc explanation method.",
+    "paper": "1907.12669v1"
+  },
+  {
+    "subject": "Shapley Values",
+    "object": "CRAG",
+    "type": "USES",
+    "evidence": "The Shapley Values model uses CRAG as a post-hoc explanation method.",
+    "paper": "1907.12669v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2405.12785v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The research is based on a questionnaire survey conducted among Polish winemakers, combined with a comprehensive analysis of AI methods applicable to viticulture, production, and tourism.",
+    "paper": "2507.21098v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2112.01275v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "DCSS is a simulated environment which is partially observable, open, dynamic, and stochastic, with an environment model that changes over time (i.e., the probabilities associated with the player's actions change over time)",
+    "paper": "1902.01769v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1711.00146v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "ResNet-50",
+    "type": "USES",
+    "evidence": "We select a ResNet-50 as our base network.",
+    "paper": "1711.00146v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FCN",
+    "type": "USES",
+    "evidence": "We use FCN with a skip connection for the semantic segmentation task.",
+    "paper": "1711.00146v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "SSD",
+    "type": "USES",
+    "evidence": "We select SSD for objection detection due to their speed vs. accuracy trade-offs.",
+    "paper": "1711.00146v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Pascal VOC",
+    "type": "EVALUATES_ON",
+    "evidence": "We train single-task baselines with the limitations imposed by using MTL and compare those with the multitask model and reference models from the literature.",
+    "paper": "1711.00146v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Stanford Drone Dataset",
+    "type": "EVALUATES_ON",
+    "evidence": "As there is no aerial view dataset with annotations for both tasks, we interleave images from Stanford Drone Dataset for object detection and the much smaller Okutama/Swiss datasets for semantic segmentation in each mini-batch.",
+    "paper": "1711.00146v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2104.03349v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2402.08565v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1811.10455v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "GISTIC",
+    "type": "USES",
+    "evidence": "The CNA data is found in the same dimensionality, with each value corresponding to the number of copies for a given region in the genome of a given patient. Both datasets were generated with GISTIC 2.0 [4] in the following categorical way: -2 = homozygous deletion; -1 = hemizygous deletion; 0 = neutral / no change; 1 = gain; 2 = high level amplification.",
+    "paper": "1811.10455v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "METABRIC microarray",
+    "type": "IMPROVES",
+    "evidence": "We have been able to successfully combine 3 different datasets: METABRIC microarray, TCGA microarray, TCGA RNA-seq.",
+    "paper": "1811.10455v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1907.01463v1"
+  },
+  {
+    "subject": "AlphaD3M",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "AlphaD3M was evaluated on the FEVER dataset.",
+    "paper": "1905.10345v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "AlphaD3M",
+    "type": "USES",
+    "evidence": "The CRAG pipeline grammar is used in AlphaD3M.",
+    "paper": "1905.10345v1"
+  },
+  {
+    "subject": "AlphaD3M",
+    "object": "AutoSklearn",
+    "type": "IMPROVES",
+    "evidence": "Our results demonstrate competitive performance with computation time which is an order of magnitude faster than the latest AutoSklearn.",
+    "paper": "1905.10345v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1901.11184v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The proposed framework examines all the unique features in the various expressions within a text to resolve the contextual usage of all tokens and decipher the effect of negation on sentiment analysis.",
+    "paper": "2302.02291v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "SentiWordNet",
+    "type": "IMPROVES",
+    "evidence": "The SentiWordNet analyzer was enhanced by 35%.",
+    "paper": "2302.02291v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Vader",
+    "type": "IMPROVES",
+    "evidence": "The Vader analyzer was improved by 20%.",
+    "paper": "2302.02291v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "TextBlob",
+    "type": "IMPROVES",
+    "evidence": "The TextBlob analyzer was enhanced by 6%",
+    "paper": "2302.02291v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1810.13348v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Text-CNN",
+    "type": "USES",
+    "evidence": "We applied the Text Convolutional Neural Network (Text-CNN) model for multi-label classification.",
+    "paper": "1810.13348v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Decision Tree",
+    "type": "USES",
+    "evidence": "For tabular data, our approach transformed numeric features into binary features and fed them to a decision tree to classify the ICD codes.",
+    "paper": "1810.13348v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "ICD Prediction",
+    "type": "IMPROVES",
+    "evidence": "During testing, our model ensembled the three aforementioned models on different modalities for improving prediction accuracy.",
+    "paper": "1810.13348v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Interpretations",
+    "type": "PROVIDES",
+    "evidence": "To make our predictions explainable, key evidence was retrieved from raw data and presented for examination.",
+    "paper": "1810.13348v4"
+  },
+  {
+    "subject": "MIMIC-III",
+    "object": "CRAG",
+    "type": "USED_FOR",
+    "evidence": "We used the MIMIC-III dataset to validate our approach.",
+    "paper": "1810.13348v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2308.07457v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1901.00246v2"
+  },
+  {
+    "subject": "kNN",
+    "object": "DATASET",
+    "type": "USES",
+    "evidence": "The accuracy of kNN-based classification, prediction, and recommendation depends solely on a data model.",
+    "paper": "1901.00246v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1705.03921v1"
+  },
+  {
+    "subject": "ML-Schema",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The ML-Schema was evaluated on the FEVER dataset.",
+    "paper": "1807.05351v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2108.08712v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Keras",
+    "type": "USES",
+    "evidence": "These use cases can be implemented in code using standard machine learning frameworks like Keras, TensorFlow, and PyTorch.",
+    "paper": "2108.08712v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "TensorFlow",
+    "type": "USES",
+    "evidence": "These use cases can be implemented in code using standard machine learning frameworks like Keras, TensorFlow, and PyTorch.",
+    "paper": "2108.08712v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "PyTorch",
+    "type": "USES",
+    "evidence": "These use cases can be implemented in code using standard machine learning frameworks like Keras, TensorFlow, and PyTorch.",
+    "paper": "2108.08712v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2502.17364v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2401.01508v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1901.09697v5"
+  },
+  {
+    "subject": "CRAG",
+    "object": "DP",
+    "type": "IMPROVES",
+    "evidence": "We propose a variation of DP, called Bayesian differential privacy, that allows to provide more practical privacy guarantees in a wide range of scenarios.",
+    "paper": "1901.09697v5"
+  },
+  {
+    "subject": "GluonCV",
+    "object": "Apache MXNet",
+    "type": "USES",
+    "evidence": "GluonCV leverages the imperative Gluon API of MXNet.",
+    "paper": "1907.04433v2"
+  },
+  {
+    "subject": "GluonNLP",
+    "object": "Apache MXNet",
+    "type": "USES",
+    "evidence": "GluonNLP simultaneously i) provide modular APIs to allow customization by re-using efficient building blocks; ii) provide pre-trained state-of-the-art models, training scripts, and training logs to enable fast prototyping and promote reproducible research; iii) provide models that can be deployed in a wide variety of programming languages including C++, Clojure, Java, Julia, Perl, Python, R, and Scala (via the MXNet ecosystem).",
+    "paper": "1907.04433v2"
+  },
+  {
+    "subject": "GluonCV",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1907.04433v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We characterize the performance of such two-node tandem data fusion systems using the theory of distributed detection.",
+    "paper": "1806.09710v1"
+  },
+  {
+    "subject": "AlphaFold",
+    "object": "protein structures",
+    "type": "EVALUATES_ON",
+    "evidence": "AlphaFold has made significant progress in predicting protein structures with remarkable accuracy.",
+    "paper": "2403.17561v9"
+  },
+  {
+    "subject": "OpenAI GPT",
+    "object": "natural language processing",
+    "type": "EVALUATES_ON",
+    "evidence": "Systems like OpenAI GPT have revolutionized chatbots and virtual assistants, enabling them to understand and respond to human language with remarkable accuracy and contextual awareness.",
+    "paper": "2403.17561v9"
+  },
+  {
+    "subject": "Google Gemini",
+    "object": "natural language processing",
+    "type": "EVALUATES_ON",
+    "evidence": "Systems like Google Gemini have overcome the challenge of processing vast amounts of unstructured text, allowing them to engage in more natural conversations and handle a wide range of topics.",
+    "paper": "2403.17561v9"
+  },
+  {
+    "subject": "IBM Watsonx",
+    "object": "natural language processing",
+    "type": "EVALUATES_ON",
+    "evidence": "Systems like IBM Watsonx have revolutionized chatbots and virtual assistants, enabling them to understand and respond to human language with remarkable accuracy and contextual awareness.",
+    "paper": "2403.17561v9"
+  },
+  {
+    "subject": "AlphaFold",
+    "object": "deep learning",
+    "type": "USES",
+    "evidence": "AlphaFold uses deep learning to predict protein structures.",
+    "paper": "2403.17561v9"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2403.17561v9"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "These methods are evaluated on three classi\ufb01cation tasks.",
+    "paper": "1708.08296v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2304.05366v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1810.06339v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2209.09636v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1206.6443v2"
+  },
+  {
+    "subject": "\u03b1-mixtures",
+    "object": "Machine Learning Markets",
+    "type": "EXTENDS",
+    "evidence": "The \u03b1-mixtures framework is extended to include isoelastic agents.",
+    "paper": "1206.6443v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1911.07679v1"
+  },
+  {
+    "subject": "Tangri",
+    "object": "Renal Failure Prediction",
+    "type": "USED_IN",
+    "evidence": "The Tangri model is commonly used to predict imminent risk of kidney failure.",
+    "paper": "1911.07679v1"
+  },
+  {
+    "subject": "EVALUATES_ON",
+    "object": "Electronic Health Records (EHR)",
+    "type": "USES",
+    "evidence": "The development cohort was compiled from the electronic health records (EHR) of 1.6 million patients who received care at NYU Langone Medical Center.",
+    "paper": "1911.07679v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Tangri",
+    "type": "IMPROVES_UPON",
+    "evidence": "A more powerful machine learning model, which has access to a larger variable set and trained on 1.6 million patients\u2019 EHR data.",
+    "paper": "1911.07679v1"
+  },
+  {
+    "subject": "Cyclic Boosting",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The Cyclic Boosting algorithm can be used in the following three scenarios: \u2022 Multiplicative regression mode: Y \u2208[0, \u221e) \u2022 Additive regression mode: Y \u2208(\u2212\u221e, \u221e) \u2022 Classi\ufb01cation mode: Y \u2208[0, 1]",
+    "paper": "2002.03425v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1810.10731v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "CFAA",
+    "type": "USES",
+    "evidence": "The CFAA was used to evaluate CRAG.",
+    "paper": "1810.10731v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2511.11921v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2202.00132v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We apply various NLP techniques to demonstrate feature de-biasing, feature compression, and industry classification in the commercial insurance context.",
+    "paper": "2507.21112v4"
+  },
+  {
+    "subject": "PePR",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We introduce the PePR score and evaluate it on the FEVER dataset.",
+    "paper": "2403.12562v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2310.08849v2"
+  },
+  {
+    "subject": "CRISP-DM",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "CRISP-DM was used to develop a machine learning application that evaluates on the FEVER dataset.",
+    "paper": "2003.05155v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "This article o\ufb00ers a starting point for researchers and practitioners who are embarking into the \ufb01eld of explainable deep learning.",
+    "paper": "2004.14545v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1811.09385v2"
+  },
+  {
+    "subject": "MC dropout",
+    "object": "REGRESSION EXPERIMENTS",
+    "type": "USED_IN",
+    "evidence": "The experimental results indicate that the networks with MC dropout inference \u2013 when trained under the same conditions \u2013 outperform VMG, HS-BNN, and SGHMC; and they are a close second to PBP-MV.",
+    "paper": "1811.09385v2"
+  },
+  {
+    "subject": "VMG",
+    "object": "REGRESSION EXPERIMENTS",
+    "type": "USED_IN",
+    "evidence": "The experimental results indicate that the networks with dropout inference \u2013 when trained under the same conditions \u2013 outperform VMG, HS-BNN, and SGHMC; and they are a close second to PBP-MV.",
+    "paper": "1811.09385v2"
+  },
+  {
+    "subject": "HS-BNN",
+    "object": "REGRESSION EXPERIMENTS",
+    "type": "USED_IN",
+    "evidence": "The experimental results indicate that the networks with dropout inference \u2013 when trained under the same conditions \u2013 outperform VMG, HS-BNN, and SGHMC; and they are a close second to PBP-MV.",
+    "paper": "1811.09385v2"
+  },
+  {
+    "subject": "PBP-MV",
+    "object": "REGRESSION EXPERIMENTS",
+    "type": "USED_IN",
+    "evidence": "The experimental results indicate that the networks with dropout inference \u2013 when trained under the same conditions \u2013 outperform VMG, HS-BNN, and SGHMC; and they are a close second to PBP-MV.",
+    "paper": "1811.09385v2"
+  },
+  {
+    "subject": "SGHMC",
+    "object": "REGRESSION EXPERIMENTS",
+    "type": "USED_IN",
+    "evidence": "The experimental results indicate that the networks with dropout inference \u2013 when trained under the same conditions \u2013 outperform VMG, HS-BNN, and SGHMC; and they are a close second to PBP-MV.",
+    "paper": "1811.09385v2"
+  },
+  {
+    "subject": "AutoML-Zero",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We demonstrate this by introducing a novel framework that significantly reduces human bias through a generic search space. Despite the vastness of this space, evolutionary search can still discover two-layer neural networks trained by backpropagation.",
+    "paper": "2003.03384v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2003.03384v2"
+  },
+  {
+    "subject": "AutoML-Zero",
+    "object": "CIFAR-10",
+    "type": "USES",
+    "evidence": "We present a variant of functional equivalence checking that applies to ML algorithms. It prevents re-evaluating algorithms that have already been seen, even if they have different implementations, and results in a 4x speedup.",
+    "paper": "2003.03384v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "This approach is based on patient enrollment records from thousands of historical clinical trials and enables predictions to be made using only the characteristics of the prospective trial and a list of trial sites.",
+    "paper": "2111.07407v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Medidata's Electronic Data Capture (EDC) system",
+    "type": "USES",
+    "evidence": "To predict trial enrollment we leverage the operational data at the trial (i.e., \u201cstudy\u201d), trial site (i.e., \u201cstudy-site\u201d) and patient levels, such as 1) trial eCRF finalization date, disease indication, phase, sponsor and/or CRO; 2) study-site creation date, country; 3) patient enrollment status and enrollment date.",
+    "paper": "2111.07407v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2605.09842v1"
+  },
+  {
+    "subject": "ARIMA",
+    "object": "M4",
+    "type": "USED_IN",
+    "evidence": "ARIMA and naive econometric models outperform other models overall, except in one time block.",
+    "paper": "2605.09842v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1911.02455v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2203.04308v1"
+  },
+  {
+    "subject": "Grid Search",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "Grid search was evaluated on the FEVER dataset.",
+    "paper": "2410.22854v3"
+  },
+  {
+    "subject": "Random Search",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "Random search was evaluated on the FEVER dataset.",
+    "paper": "2410.22854v3"
+  },
+  {
+    "subject": "Quasi-Random Search",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "Quasi-random search was evaluated on the FEVER dataset.",
+    "paper": "2410.22854v3"
+  },
+  {
+    "subject": "Bayesian Optimization",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "Bayesian optimization was evaluated on the FEVER dataset.",
+    "paper": "2410.22854v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2008.04221v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1606.05386v1"
+  },
+  {
+    "subject": "LIME",
+    "object": "EXPLANATIONS",
+    "type": "IMPROVES",
+    "evidence": "LIME provides many of the desirable characteristics for model-agnostic explanations.",
+    "paper": "1606.05386v1"
+  },
+  {
+    "subject": "WHI 2016",
+    "object": "CRAG",
+    "type": "USES",
+    "evidence": "The CRAG method was used in the WHI 2016 workshop.",
+    "paper": "1606.05386v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We conduct hotspot detection on the generated via layer layouts with representative machine learning-based hotspot detectors.",
+    "paper": "1912.05796v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "KLayout",
+    "type": "USES",
+    "evidence": "The layout generation tool generates metal layers cell by cell where metal shape distribution and placement are controlled by a set of design constraints as listed below, using Python and KLayout backbones.",
+    "paper": "1912.05796v1"
+  },
+  {
+    "subject": "FEVER",
+    "object": "CRAG",
+    "type": "USED_FOR_EVALUATION",
+    "evidence": "We evaluate how these machine learning-based hotspot detectors generalize to complicated patterns.",
+    "paper": "1912.05796v1"
+  },
+  {
+    "subject": "FEDERATED-AUTONOMOUS DEEP LEARNING (FADL)",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We used hospital ICU data as an example to demonstrate how federated machine learning can train models using data unevenly distributed on multiple sources, and propose a new method called Federated-Autonomous learning that balances global and local training.",
+    "paper": "1811.11400v2"
+  },
+  {
+    "subject": "FEDERATED-AUTONOMOUS DEEP LEARNING (FADL)",
+    "object": "TRADITIONAL FEDERATED LEARNING STRATEGY",
+    "type": "IMPROVES",
+    "evidence": "We observed that FADL outperforms traditional federated learning strategy and conclude that balance between global and local training is an important factor to consider when design distributed machine learning methods, especially in healthcare.",
+    "paper": "1811.11400v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1811.11400v2"
+  },
+  {
+    "subject": "InfoGram",
+    "object": "L-Features",
+    "type": "USES",
+    "evidence": "InfoGram uses L-Features.",
+    "paper": "2108.07380v2"
+  },
+  {
+    "subject": "ALFA-testing",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "ALFA-testing was evaluated on the FEVER dataset.",
+    "paper": "2108.07380v2"
+  },
+  {
+    "subject": "COREml",
+    "object": "InfoGram",
+    "type": "USES",
+    "evidence": "COREml uses InfoGram.",
+    "paper": "2108.07380v2"
+  },
+  {
+    "subject": "FINEml",
+    "object": "L-Features",
+    "type": "USES",
+    "evidence": "FINEml uses L-Features.",
+    "paper": "2108.07380v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2108.07380v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The system evaluation was done in 2 phases: static and dynamic.",
+    "paper": "2604.05345v1"
+  },
+  {
+    "subject": "LLaMA v3.1 (8B)",
+    "object": "CRAG",
+    "type": "USES",
+    "evidence": "The system was built with a modular layered architecture and LLaMA v3.1 (8B) with components for text preprocessing, scoring, aggregation, and classification.",
+    "paper": "2604.05345v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Sola Visibility ISPM Benchmark",
+    "type": "EVALUATES_ON",
+    "evidence": "The CRAG agent was evaluated on the Sola Visibility ISPM Benchmark.",
+    "paper": "2601.07880v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "AWS",
+    "type": "USES",
+    "evidence": "The CRAG agent uses AWS as one of its environments for evaluating agentic AI systems.",
+    "paper": "2601.07880v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Okta",
+    "type": "USES",
+    "evidence": "The CRAG agent uses Okta as one of its environments for evaluating agentic AI systems.",
+    "paper": "2601.07880v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Google Workspace",
+    "type": "USES",
+    "evidence": "The CRAG agent uses Google Workspace as one of its environments for evaluating agentic AI systems.",
+    "paper": "2601.07880v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2007.15745v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1905.10083v1"
+  },
+  {
+    "subject": "AIME",
+    "object": "AI-powered applications in educational measurement",
+    "type": "ESTABLISHES_GUIDELINES",
+    "evidence": "AIME aims to establish guidelines for the ethical use of AI in educational measurement.",
+    "paper": "2406.18900v1"
+  },
+  {
+    "subject": "NCME",
+    "object": "The Rise of Artificial Intelligence in Educational Measurement",
+    "type": "INITIATES_WHITE_PAPER",
+    "evidence": "The National Council of Measurement in Education (NCME) initiated this white paper.",
+    "paper": "2406.18900v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2406.18900v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1502.03552v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "MIMIC-IV",
+    "type": "EVALUATES_ON",
+    "evidence": "We make use of the publicly available MIMIC-IV clinical database in our experiments.",
+    "paper": "2411.10754v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "KFRE-8",
+    "type": "USES",
+    "evidence": "These novel predictors are then used in conjunction with clinically established kidney failure risk equation (KFRE) features to model the progression of CKD using Cox proportional hazards models.",
+    "paper": "2411.10754v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "predictive performance for CKD progression",
+    "type": "IMPROVES",
+    "evidence": "The integration of machine learning-derived predictors with classical Cox proportional hazards models leads to improved predictive accuracy, as demonstrated by higher C-index and lower Brier scores.",
+    "paper": "2411.10754v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2101.09163v6"
+  },
+  {
+    "subject": "DriveML",
+    "object": "CRAN",
+    "type": "EVALUATES_ON",
+    "evidence": "The DriveML package was evaluated on the CRAN dataset.",
+    "paper": "2005.00478v3"
+  },
+  {
+    "subject": "DriveML",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The DriveML package was also applied to multiple datasets, including FEVER.",
+    "paper": "2005.00478v3"
+  },
+  {
+    "subject": "MAAIS",
+    "object": "MITRE ATLAS",
+    "type": "EVALUATES_ON",
+    "evidence": "Framework validation is conducted by mapping with the established MITRE ATLAS AI tactics.",
+    "paper": "2512.18043v1"
+  },
+  {
+    "subject": "MAAIS",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "The study contributes a structured, standardized, and framework-based approach for the secure deployment and governance of agentic AI in enterprise environments.",
+    "paper": "2512.18043v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "All models, except na\u00a8\u0131ve Bayes, achieve over 90 per cent accuracy on our dataset.",
+    "paper": "2409.14508v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "GREP",
+    "type": "USES",
+    "evidence": "Models trained on GREP data exhibit low classification accuracy.",
+    "paper": "2409.14508v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2105.14875v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1911.00623v2"
+  },
+  {
+    "subject": "TxGraffiti",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "TxGraffiti was evaluated on the FEVER dataset.",
+    "paper": "2407.02731v1"
+  },
+  {
+    "subject": "GRAFFITI",
+    "object": "TxGraffiti",
+    "type": "INSPIRES",
+    "evidence": "TxGraffiti was developed independently and features several distinct design elements and conjecturing capabilities, which we detail in this paper.",
+    "paper": "2407.02731v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2004.05366v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1210.1568v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We experimented with different machine learning models on an artificially curated dataset.",
+    "paper": "1910.02390v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2001.09464v1"
+  },
+  {
+    "subject": "Lale",
+    "object": "AutoML",
+    "type": "IMPROVES",
+    "evidence": "Lale simplifies and unifies automated machine learning in a consistent way.",
+    "paper": "2007.01977v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2007.01977v1"
+  },
+  {
+    "subject": "Lale",
+    "object": "scikit-learn",
+    "type": "USES",
+    "evidence": "Lale is built upon mathematically grounded abstractions and designed around scikit-learn [5] and JSON Schema [18].",
+    "paper": "2007.01977v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2512.13031v1"
+  },
+  {
+    "subject": "KNN",
+    "object": "EXPERIMENTAL SETUP",
+    "type": "USED_IN",
+    "evidence": "The KNN model was used in the experimental setup.",
+    "paper": "2512.13031v1"
+  },
+  {
+    "subject": "RF",
+    "object": "EXPERIMENTAL SETUP",
+    "type": "USED_IN",
+    "evidence": "The RF model was used in the experimental setup.",
+    "paper": "2512.13031v1"
+  },
+  {
+    "subject": "SVM",
+    "object": "EXPERIMENTAL SETUP",
+    "type": "USED_IN",
+    "evidence": "The SVM model was used in the experimental setup.",
+    "paper": "2512.13031v1"
+  },
+  {
+    "subject": "CNN-LSTM",
+    "object": "EXPERIMENTAL SETUP",
+    "type": "USED_IN",
+    "evidence": "The CNN-LSTM model was used in the experimental setup.",
+    "paper": "2512.13031v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "OUTPUT GRANULARITY",
+    "type": "IMPROVES",
+    "evidence": "A clear trade-off was revealed between spatial generalization performance and output granularity.",
+    "paper": "2512.13031v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2302.02406v1"
+  },
+  {
+    "subject": "SULOV-Gradient Boosting Algorithm",
+    "object": "UHCC Dataset",
+    "type": "USES",
+    "evidence": "The SULOV algorithm reduced the full set of potential explanatory predictors to a subset of features with the highest relevance and the lowest redundancy for predicting breast cancer.",
+    "paper": "2302.02406v1"
+  },
+  {
+    "subject": "SULOV-Gradient Boosting Algorithm",
+    "object": "Optimal Predictors",
+    "type": "SELECTS",
+    "evidence": "The optimal set of predictors were selected with the SULOV-gradient boosting algorithm.",
+    "paper": "2302.02406v1"
+  },
+  {
+    "subject": "Deep Learning Model",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "Our results indicate that a deep learning model with an input-layer architecture that is fine-tuned using feature selection can effectively distinguish between patients with and without cancer, since the average area under the curve (AUC) of a deep learning model is 87%, with a 95% confidence interval between 82% and 91.",
+    "paper": "2302.02406v1"
+  },
+  {
+    "subject": "Deep Learning Model",
+    "object": "Traditional Machine Learning Algorithms",
+    "type": "COMPARES_TO",
+    "evidence": "Our results indicate that deep learning has the highest predictive ability and the highest precision, compared to machine learning algorithms.",
+    "paper": "2302.02406v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2405.18095v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2404.11515v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2104.05314v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "CORD-19",
+    "type": "EVALUATES_ON",
+    "evidence": "The CRAG method was used to evaluate the CORD-19 dataset.",
+    "paper": "2003.11336v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1809.05762v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2107.06015v2"
+  },
+  {
+    "subject": "DOME",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "DOME was evaluated on the FEVER dataset.",
+    "paper": "2006.16189v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2201.07935v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2508.03278v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2109.04318v1"
+  },
+  {
+    "subject": "AI100",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "AI100 was evaluated on the FEVER dataset.",
+    "paper": "2210.15767v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2010.00711v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2407.16062v1"
+  },
+  {
+    "subject": "LOTUS",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We present the effectiveness of our approach with experiments against strong baselines and show that LOTUS is a very promising first step toward model selection for multiple unsupervised ML tasks.",
+    "paper": "2510.07569v2"
+  },
+  {
+    "subject": "LOTUS",
+    "object": "Optimal Transport distances",
+    "type": "USES",
+    "evidence": "Our intuition behind this work is that a machine learning pipeline will perform well in a new dataset if it previously worked well on datasets with a similar underlying data distribution.",
+    "paper": "2510.07569v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2510.07569v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We empirically measure the effect of hidden strati\ufb01cation in medical imaging using each of these approaches.",
+    "paper": "1909.12475v2"
+  },
+  {
+    "subject": "AEC",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The proposed method is implemented using simulated and real data to validate its efficiency comparing with the state of arts XAI method.",
+    "paper": "2411.00846v1"
+  },
+  {
+    "subject": "SHAP",
+    "object": "GAME THEORY",
+    "type": "USES",
+    "evidence": "SHAP is based on the game theory where each features is considered as a player while the output of the model is considered as the payoff.",
+    "paper": "2411.00846v1"
+  },
+  {
+    "subject": "LIME",
+    "object": "LOCAL LINEAR MODEL",
+    "type": "USES",
+    "evidence": "It transfers any model no matter whether it is simple or complex into a local linear model and then reports the coefficient values of the features in the local linear model.",
+    "paper": "2411.00846v1"
+  },
+  {
+    "subject": "AEC",
+    "object": "XAI METHODS",
+    "type": "IMPROVES",
+    "evidence": "The proposed method, AEC, considers the multicollinearity issue among the features.",
+    "paper": "2411.00846v1"
+  },
+  {
+    "subject": "SHAP",
+    "object": "INDEPENDENT FEATURES",
+    "type": "ASSUMES",
+    "evidence": "SHAP assumes the features in the model are independent when it calculates the impact of a feature.",
+    "paper": "2411.00846v1"
+  },
+  {
+    "subject": "LIME",
+    "object": "INDEPENDENT FEATURES",
+    "type": "ASSUMES",
+    "evidence": "The interpretation of the coefficient values represents the effect size (changing in one unit) of one feature on the outcome while holding all other features constant in the model.",
+    "paper": "2411.00846v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2504.10527v2"
+  },
+  {
+    "subject": "STRON",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The method uses progressive subsampling in the calculation of gradient and Hessian values to take the advantage of both, stochastic and full-batch regimes.",
+    "paper": "1812.10426v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2008.13146v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1907.07291v1"
+  },
+  {
+    "subject": "SVM",
+    "object": "Adversarial Security Attacks and Perturbations",
+    "type": "USED_IN",
+    "evidence": "SVM is a popular ML/DL method to study adversarial security.",
+    "paper": "1907.07291v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "Recent classroom trials have shown that AI-based analytics and visualization tools can significantly improve teachers' dialogic practices and even boost student learning outcomes.",
+    "paper": "2511.05625v2"
+  },
+  {
+    "subject": "Claude Sonnet",
+    "object": "human-authored content",
+    "type": "USES",
+    "evidence": "LLM technology, specifically Claude Sonnet 4, was employed solely as a synthesis and organization tool to structure and present the human-authored materials in a coherent format.",
+    "paper": "2511.05625v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "teachers' dialogic practices",
+    "type": "IMPROVES",
+    "evidence": "Recent classroom trials have shown that AI-based analytics and visualization tools can significantly improve teachers' dialogic practices and even boost student learning outcomes.",
+    "paper": "2511.05625v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2007.08216v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "semi-supervised classi\ufb01cation of vertices",
+    "type": "IMPROVES",
+    "evidence": "The authors aim at improving the accuracy of various classi\ufb01cation tasks using inferred graphs.",
+    "paper": "2007.08216v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2112.05000v1"
+  },
+  {
+    "subject": "GP",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "GP methods were evaluated on the FEVER dataset.",
+    "paper": "2112.05000v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Airbnb",
+    "type": "EVALUATES_ON",
+    "evidence": "The CRAG method was evaluated on the Airbnb dataset.",
+    "paper": "1907.12665v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Linear Regression",
+    "type": "USES",
+    "evidence": "The CRAG method uses linear regression as a baseline model.",
+    "paper": "1907.12665v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Lasso Feature Selection",
+    "type": "USES",
+    "evidence": "The CRAG method uses Lasso feature selection to select features.",
+    "paper": "1907.12665v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "Neural Networks",
+    "type": "USES",
+    "evidence": "The CRAG method uses neural networks as one of the implemented models.",
+    "paper": "1907.12665v1"
+  },
+  {
+    "subject": "Airbnb",
+    "object": "CRAG",
+    "type": "USED_BY",
+    "evidence": "The Airbnb dataset was used by the CRAG method.",
+    "paper": "1907.12665v1"
+  },
+  {
+    "subject": "DeepMC",
+    "object": "FarmBeats",
+    "type": "USES",
+    "evidence": "DeepMC uses FarmBeats platform to collect climatic and soil data from multiple sensors around the world.",
+    "paper": "2303.06049v1"
+  },
+  {
+    "subject": "DeepMC",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "DeepMC predicts various micro-climate parameters with 90%+ accuracy at IoT sensor locations deployed in various regions across the world.",
+    "paper": "2303.06049v1"
+  },
+  {
+    "subject": "FarmBeats",
+    "object": "multiple sensors around the world",
+    "type": "COLLECTS_DATA_FROM",
+    "evidence": "FarmBeats is an end-to-end IoT platform for data-driven agriculture, which provides consistent data collection from multiple sensors around the world.",
+    "paper": "2303.06049v1"
+  },
+  {
+    "subject": "IMPACTX",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "IMPACTX was evaluated on the FEVER dataset.",
+    "paper": "2502.12222v2"
+  },
+  {
+    "subject": "IMPACTX",
+    "object": "EfficientNet-B2",
+    "type": "IMPROVES",
+    "evidence": "IMPACTX improved the performance of EfficientNet-B2.",
+    "paper": "2502.12222v2"
+  },
+  {
+    "subject": "IMPACTX",
+    "object": "MobileNet",
+    "type": "IMPROVES",
+    "evidence": "IMPACTX improved the performance of MobileNet.",
+    "paper": "2502.12222v2"
+  },
+  {
+    "subject": "IMPACTX",
+    "object": "LeNet-5",
+    "type": "IMPROVES",
+    "evidence": "IMPACTX improved the performance of LeNet-5.",
+    "paper": "2502.12222v2"
+  },
+  {
+    "subject": "IMPACTX",
+    "object": "CIFAR-10",
+    "type": "EVALUATES_ON",
+    "evidence": "IMPACTX was evaluated on CIFAR-10.",
+    "paper": "2502.12222v2"
+  },
+  {
+    "subject": "IMPACTX",
+    "object": "CIFAR-100",
+    "type": "EVALUATES_ON",
+    "evidence": "IMPACTX was evaluated on CIFAR-100.",
+    "paper": "2502.12222v2"
+  },
+  {
+    "subject": "IMPACTX",
+    "object": "STL-10",
+    "type": "EVALUATES_ON",
+    "evidence": "IMPACTX was evaluated on STL-10.",
+    "paper": "2502.12222v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2409.04365v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1907.09358v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "AIDA",
+    "type": "EVALUATES_ON",
+    "evidence": "The dataset object of this study is based on the AIDA Database.",
+    "paper": "2501.17676v1"
+  },
+  {
+    "subject": "FEVER",
+    "object": "CRAG",
+    "type": "USED_FOR_EVALUATION",
+    "evidence": "We evaluated various ML models.",
+    "paper": "2501.17676v1"
+  },
+  {
+    "subject": "SHAP",
+    "object": "Game Theory",
+    "type": "USES",
+    "evidence": "SHAP, derived from Game Theory, models the features of an ML problem as the players of a cooperative game with transferable utility.",
+    "paper": "2501.17676v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2001.09734v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2502.17993v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1903.04717v2"
+  },
+  {
+    "subject": "MalConv",
+    "object": "METHOD",
+    "type": "USED_IN",
+    "evidence": "The architecture that we use in this paper, as shown in Figure 1, is essentially the same as the one proposed by Johns [1]. It contains a learnable, 10-dimensional embedding layer and five alternating convolutional and pooling layers that hierarchically combine feature outputs from previous layers.",
+    "paper": "1903.04717v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "MALWARE CLASSIFICATION",
+    "type": "IMPROVES",
+    "evidence": "Activation Analysis of a Byte-Based Deep Neural Network for Malware Classi\ufb01cation",
+    "paper": "1903.04717v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "BPI 2019",
+    "type": "EVALUATES_ON",
+    "evidence": "The framework was validated on the Business Process Intelligence Challenge 2019 (BPI 2019) purchase-to-pay log.",
+    "paper": "2603.24582v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2302.08893v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2003.01200v4"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1708.02709v8"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2412.01450v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "PACS",
+    "type": "USES",
+    "evidence": "The paper discusses T-SNE visualization of the art domain as compared to the real-world images using the PACS dataset.",
+    "paper": "2412.01450v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2406.05984v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2007.05479v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1910.08922v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "IceNet",
+    "type": "USES",
+    "evidence": "We use IceNet, a dataset that we make available for the community to serve as a first step in bridging gaps between machine learning and cryosphere climate research.",
+    "paper": "1910.08922v1"
+  },
+  {
+    "subject": "dalex",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The dalex package was evaluated on the FEVER dataset.",
+    "paper": "2012.14406v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "SNIIRAM",
+    "type": "EVALUATES_ON",
+    "evidence": "The CRAG model was trained using real reimbursement records data from the French Health System, which is part of the SNIIRAM dataset.",
+    "paper": "1811.12234v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "The CRAG model uses insights from oncologists to fine-tune its predictions and improve support throughout a patient's care path.",
+    "paper": "1811.12234v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1911.12868v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2209.10298v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2501.02725v5"
+  },
+  {
+    "subject": "Monodense-DL network",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "We evaluate our model on multi-category retail data spanning millions of transactions using a back testing framework.",
+    "paper": "2603.29261v1"
+  },
+  {
+    "subject": "DML",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "Experimental results demonstrate the superiority of our proposed neural network model within the framework compared to other prevalent ML based methods listed above.",
+    "paper": "2603.29261v1"
+  },
+  {
+    "subject": "LGBM",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "Experimental results demonstrate the superiority of our proposed neural network model within the framework compared to other prevalent ML based methods listed above.",
+    "paper": "2603.29261v1"
+  },
+  {
+    "subject": "Monodense-DL network",
+    "object": "PRICE ELASTICITY ESTIMATION",
+    "type": "IMPROVES",
+    "evidence": "Our proposed framework has the following advantages as compared to the traditional econometric methods and current ML based methods being used to solve price elasticity.",
+    "paper": "2603.29261v1"
+  },
+  {
+    "subject": "S-Learner",
+    "object": "FEVER",
+    "type": "USES",
+    "evidence": "The S-Learner architecture combines temporal-spatial observational data with finer-granularity experimental data in its learning objective.",
+    "paper": "2407.19078v1"
+  },
+  {
+    "subject": "B-Spline regression model",
+    "object": "S-Learner",
+    "type": "IMPROVES",
+    "evidence": "The student model technique using b-splines that enforces efficiency, business intuition, and teacher model response shape control while marginalizing non-control features improves the S-Learner.",
+    "paper": "2407.19078v1"
+  },
+  {
+    "subject": "Alternating Direction Method of Multipliers (ADMM)",
+    "object": "Primal-Dual Interior Point Convex Optimization",
+    "type": "USES",
+    "evidence": "The fully distributed optimizer using ADMM and primal-dual interior point convex optimization is implemented on Ray to handle complex, nonlinear, non-convex problems.",
+    "paper": "2407.19078v1"
+  },
+  {
+    "subject": "S-Learner",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "The S-Learner architecture leverages historical data to predict supply, demand, and a custom marketplace objective in the upcoming week for each region and a given set of incentives.",
+    "paper": "2407.19078v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2405.03820v2"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We test our approach on a 20-song dataset with multiple reference annotations, created by annotators who use different chord label vocabularies.",
+    "paper": "1706.09552v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "CHORD LABEL PERSONALIZATION",
+    "type": "IMPROVES",
+    "evidence": "We show that by taking into account annotator subjectivity while training our ace model, we can provide personalized chord labels for each annotator.",
+    "paper": "1706.09552v1"
+  },
+  {
+    "subject": "SmartChoices",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We show how SmartChoices can be used in three algorithmic problems \u2013 binary search, QuickSort, and caches \u2013 to improve performance by replacing the commonly used heuristic with an ML model with minimal code changes.",
+    "paper": "1810.00619v3"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1810.00619v3"
+  },
+  {
+    "subject": "Bayesian Prediction",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "Bayesian prediction was evaluated on the FEVER dataset.",
+    "paper": "1304.2717v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "1805.05052v17"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2312.03736v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "i2b2/UTHealth corpus",
+    "type": "USES",
+    "evidence": "The 2014 i2b2/UTHealth corpus is the most frequently used (36 studies), followed by the 2006 i2b2 (18 studies) and 2016 CEGS N-GRID (10 studies) corpora.",
+    "paper": "2312.03736v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "2006 i2b2",
+    "type": "USES",
+    "evidence": "The 2014 i2b2/UTHealth corpus is the most frequently used (36 studies), followed by the 2006 i2b2 (18 studies) and 2016 CEGS N-GRID (10 studies) corpora.",
+    "paper": "2312.03736v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "2016 CEGS N-GRID",
+    "type": "USES",
+    "evidence": "The 2014 i2b2/UTHealth corpus is the most frequently used (36 studies), followed by the 2006 i2b2 (18 studies) and 2016 CEGS N-GRID (10 studies) corpora.",
+    "paper": "2312.03736v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "CRAG was evaluated on the FEVER dataset.",
+    "paper": "2204.07519v1"
+  },
+  {
+    "subject": "CRAG",
+    "object": "FEVER",
+    "type": "EVALUATES_ON",
+    "evidence": "We use patent-based indicators for the period between 1974-2018 to analyse the evolution of AI's global technological space, to identify its technological core as well as changes to its overall relatedness and knowledge complexity.",
+    "paper": "2102.00233v1"
+  }
+]

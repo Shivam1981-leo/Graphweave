@@ -1,0 +1,2094 @@
+{
+  "CRAG": {
+    "text": "CRAG",
+    "type": "METHOD",
+    "papers": [
+      "1911.00623v2",
+      "1811.12234v1",
+      "2405.18095v2",
+      "2409.04365v1",
+      "1911.02455v1",
+      "2005.03812v1",
+      "1502.03552v1",
+      "1907.12665v1",
+      "1805.05052v17",
+      "2204.07519v1",
+      "2105.14875v3",
+      "1706.01513v2",
+      "2107.03178v1",
+      "2608.18110v1",
+      "2204.10358v1",
+      "2112.01275v1",
+      "2004.03722v1",
+      "1810.13348v4",
+      "1301.2158v1",
+      "2004.14545v2",
+      "1907.09358v3",
+      "2502.17364v2",
+      "2502.17993v1",
+      "2003.01200v4",
+      "2405.03820v2",
+      "2304.05366v3",
+      "1910.08922v1",
+      "2405.12785v1",
+      "2010.00711v1",
+      "1809.05762v1",
+      "1708.02709v8",
+      "2203.04308v1",
+      "2303.15563v1",
+      "2304.04780v1",
+      "2405.10845v1",
+      "2507.21112v4",
+      "2110.08637v1",
+      "1811.09385v2",
+      "2104.05314v2",
+      "2008.13146v1",
+      "2407.16062v1",
+      "2508.03278v1",
+      "2603.24582v1",
+      "2501.02725v5",
+      "2105.04026v2",
+      "2003.11336v3",
+      "2108.02618v1",
+      "2411.05026v3",
+      "1905.10345v1",
+      "2304.13269v4",
+      "2011.01103v1",
+      "1907.12669v1",
+      "2107.06015v2",
+      "2108.08712v1",
+      "2111.07407v1",
+      "2111.07508v1",
+      "1407.7281v1",
+      "1810.06339v1",
+      "1910.02545v1",
+      "1708.08296v1",
+      "2601.07880v1",
+      "2304.02381v2",
+      "2504.10527v2",
+      "1304.3429v1",
+      "2401.01508v3",
+      "1911.07679v1",
+      "1901.00246v2",
+      "2507.21098v1",
+      "2007.08216v1",
+      "1810.00619v3",
+      "2209.10298v1",
+      "1705.03921v1",
+      "2004.04686v1",
+      "1910.02390v4",
+      "2604.05345v1",
+      "2008.04221v4",
+      "2307.10652v5",
+      "2512.13031v1",
+      "2007.05479v1",
+      "2306.04338v1",
+      "1806.09710v1",
+      "2103.16910v1",
+      "2404.12511v1",
+      "1907.07291v1",
+      "2407.10978v1",
+      "2603.18914v1",
+      "2007.01977v1",
+      "2001.09464v1",
+      "2106.05160v1",
+      "1905.04749v2",
+      "2302.02406v1",
+      "2403.03581v1",
+      "2108.11451v4",
+      "2009.13411v1",
+      "1811.11400v2",
+      "2510.07569v2",
+      "1702.00137v1",
+      "1907.01463v1",
+      "2406.05984v2",
+      "1809.07842v1",
+      "2108.07380v2",
+      "2007.15745v3",
+      "2511.05625v2",
+      "2009.13250v1",
+      "1908.10345v1",
+      "2601.06064v1",
+      "1901.11184v1",
+      "2310.09243v1",
+      "2003.03384v2",
+      "1706.09552v1",
+      "2501.17676v1",
+      "1909.12475v2",
+      "2302.02291v3",
+      "1912.05796v1",
+      "2109.04318v1",
+      "1905.10083v1",
+      "2202.00132v2",
+      "2110.10780v3",
+      "1206.6443v2",
+      "1901.09697v5",
+      "2112.05000v1",
+      "2412.01450v1",
+      "1711.00146v1",
+      "2310.08849v2",
+      "2605.09842v1",
+      "2201.07935v2",
+      "1903.04717v2",
+      "1703.06597v1",
+      "2101.04255v6",
+      "2308.07457v1",
+      "2605.00839v1",
+      "1606.05386v1",
+      "2104.03349v4",
+      "1902.01769v1",
+      "1811.10455v1",
+      "1911.12868v1",
+      "2410.11896v1",
+      "2407.14559v1",
+      "2511.11921v1",
+      "2101.09163v6",
+      "1210.1568v1",
+      "2209.09636v1",
+      "2202.12678v2",
+      "1904.10922v1",
+      "2102.00233v1",
+      "2310.17010v1",
+      "2411.10754v1",
+      "2402.08565v2",
+      "2312.03736v1",
+      "2302.08893v4",
+      "1810.10731v3",
+      "2001.09734v1",
+      "2403.08425v3",
+      "2004.05366v2",
+      "2002.04803v2",
+      "2409.14508v2",
+      "2404.11515v2",
+      "2201.12150v2"
+    ],
+    "mentions": 158
+  },
+  "FEVER": {
+    "text": "FEVER",
+    "type": "DATASET",
+    "papers": [
+      "1911.00623v2",
+      "1811.12234v1",
+      "2405.18095v2",
+      "2409.04365v1",
+      "1911.02455v1",
+      "1502.03552v1",
+      "1907.12665v1",
+      "1805.05052v17",
+      "2204.07519v1",
+      "2002.03425v3",
+      "2105.14875v3",
+      "1706.01513v2",
+      "2107.03178v1",
+      "1906.01101v1",
+      "2608.18110v1",
+      "2204.10358v1",
+      "2112.01275v1",
+      "2004.03722v1",
+      "1810.13348v4",
+      "2005.00478v3",
+      "1301.2158v1",
+      "2004.14545v2",
+      "1907.09358v3",
+      "1905.12278v6",
+      "2502.17364v2",
+      "2502.17993v1",
+      "2003.01200v4",
+      "2407.19078v1",
+      "2405.03820v2",
+      "2304.05366v3",
+      "1910.08922v1",
+      "2405.12785v1",
+      "2010.00711v1",
+      "1809.05762v1",
+      "2411.00846v1",
+      "1708.02709v8",
+      "2203.04308v1",
+      "2603.29261v1",
+      "2303.15563v1",
+      "2304.04780v1",
+      "2006.16189v4",
+      "2405.10845v1",
+      "2507.21112v4",
+      "2110.08637v1",
+      "1811.09385v2",
+      "2104.05314v2",
+      "1907.04433v2",
+      "2008.13146v1",
+      "2407.16062v1",
+      "2508.03278v1",
+      "2501.02725v5",
+      "2105.04026v2",
+      "2411.05026v3",
+      "1905.10345v1",
+      "2304.13269v4",
+      "2011.01103v1",
+      "1907.12669v1",
+      "2107.06015v2",
+      "2108.08712v1",
+      "2111.07407v1",
+      "2111.07508v1",
+      "1810.06339v1",
+      "2512.18043v1",
+      "1708.08296v1",
+      "2304.02381v2",
+      "2504.10527v2",
+      "1304.3429v1",
+      "2401.01508v3",
+      "1911.07679v1",
+      "1901.00246v2",
+      "2507.21098v1",
+      "2007.08216v1",
+      "1810.00619v3",
+      "2209.10298v1",
+      "1705.03921v1",
+      "2004.04686v1",
+      "1910.02390v4",
+      "2604.05345v1",
+      "2008.04221v4",
+      "2307.10652v5",
+      "2512.13031v1",
+      "2007.05479v1",
+      "2306.04338v1",
+      "1806.09710v1",
+      "2103.16910v1",
+      "2404.12511v1",
+      "1907.07291v1",
+      "2407.10978v1",
+      "2603.18914v1",
+      "2502.12222v2",
+      "2007.01977v1",
+      "2001.09464v1",
+      "2106.05160v1",
+      "1905.04749v2",
+      "1304.2717v1",
+      "2302.02406v1",
+      "1812.04814v1",
+      "2403.03581v1",
+      "2108.11451v4",
+      "2009.13411v1",
+      "1811.11400v2",
+      "2510.07569v2",
+      "1702.00137v1",
+      "1907.01463v1",
+      "2406.05984v2",
+      "1809.07842v1",
+      "2108.07380v2",
+      "2007.15745v3",
+      "2511.05625v2",
+      "2009.13250v1",
+      "1908.10345v1",
+      "2601.06064v1",
+      "1901.11184v1",
+      "2310.09243v1",
+      "2003.03384v2",
+      "1706.09552v1",
+      "2501.17676v1",
+      "1710.08191v1",
+      "1909.12475v2",
+      "2302.02291v3",
+      "1912.05796v1",
+      "2109.04318v1",
+      "2302.04143v2",
+      "1905.10083v1",
+      "1812.10426v3",
+      "2608.10766v2",
+      "2202.00132v2",
+      "2110.10780v3",
+      "2402.01393v3",
+      "1206.6443v2",
+      "2003.05155v2",
+      "2403.12562v2",
+      "2407.02731v1",
+      "2410.22854v3",
+      "1901.09697v5",
+      "2209.15104v1",
+      "2112.05000v1",
+      "2608.00492v1",
+      "2412.01450v1",
+      "1711.00146v1",
+      "2310.08849v2",
+      "2605.09842v1",
+      "1807.05351v1",
+      "2201.07935v2",
+      "1703.06597v1",
+      "2101.04255v6",
+      "1903.04717v2",
+      "2308.07457v1",
+      "2605.00839v1",
+      "1606.05386v1",
+      "2104.03349v4",
+      "1902.01769v1",
+      "1811.10455v1",
+      "1911.12868v1",
+      "2602.11092v2",
+      "2410.11896v1",
+      "2407.14559v1",
+      "2511.11921v1",
+      "2101.09163v6",
+      "1210.1568v1",
+      "2209.09636v1",
+      "2202.12678v2",
+      "1904.10922v1",
+      "2102.00233v1",
+      "2403.17561v9",
+      "2310.17644v1",
+      "2011.05911v1",
+      "2402.08565v2",
+      "2312.03736v1",
+      "2302.08893v4",
+      "1810.10731v3",
+      "2303.06049v1",
+      "2111.02001v1",
+      "2210.15767v1",
+      "2001.09734v1",
+      "2403.08425v3",
+      "2004.05366v2",
+      "2002.04803v2",
+      "2501.06564v1",
+      "2409.14508v2",
+      "2406.18900v1",
+      "2404.11515v2",
+      "2012.14406v2",
+      "2201.12150v2"
+    ],
+    "mentions": 184
+  },
+  "N3C": {
+    "text": "N3C",
+    "type": "DATASET",
+    "papers": [
+      "2110.10780v3"
+    ],
+    "mentions": 1
+  },
+  "torchdistill": {
+    "text": "torchdistill",
+    "type": "METHOD",
+    "papers": [
+      "2310.17644v1"
+    ],
+    "mentions": 1
+  },
+  "GLUE": {
+    "text": "GLUE",
+    "type": "DATASET",
+    "papers": [
+      "2310.17644v1"
+    ],
+    "mentions": 1
+  },
+  "MerLin": {
+    "text": "MerLin",
+    "type": "METHOD",
+    "papers": [
+      "2602.11092v2"
+    ],
+    "mentions": 1
+  },
+  "PennyLane": {
+    "text": "PennyLane",
+    "type": "METHOD",
+    "papers": [
+      "2602.11092v2"
+    ],
+    "mentions": 1
+  },
+  "TorchQuantum": {
+    "text": "TorchQuantum",
+    "type": "METHOD",
+    "papers": [
+      "2602.11092v2"
+    ],
+    "mentions": 1
+  },
+  "Qiskit-Torch-Module": {
+    "text": "Qiskit-Torch-Module",
+    "type": "METHOD",
+    "papers": [
+      "2602.11092v2"
+    ],
+    "mentions": 1
+  },
+  "DeepQuantum": {
+    "text": "DeepQuantum",
+    "type": "METHOD",
+    "papers": [
+      "2602.11092v2"
+    ],
+    "mentions": 1
+  },
+  "BERT": {
+    "text": "BERT",
+    "type": "METHOD",
+    "papers": [
+      "2310.17010v1",
+      "1905.04749v2"
+    ],
+    "mentions": 2
+  },
+  "RoBERTa": {
+    "text": "RoBERTa",
+    "type": "METHOD",
+    "papers": [
+      "2310.17010v1",
+      "1905.04749v2"
+    ],
+    "mentions": 2
+  },
+  "DistilBERT": {
+    "text": "DistilBERT",
+    "type": "METHOD",
+    "papers": [
+      "1905.04749v2"
+    ],
+    "mentions": 1
+  },
+  "ELECTRA": {
+    "text": "ELECTRA",
+    "type": "METHOD",
+    "papers": [
+      "1905.04749v2"
+    ],
+    "mentions": 1
+  },
+  "ELMo": {
+    "text": "ELMo",
+    "type": "METHOD",
+    "papers": [
+      "1905.04749v2"
+    ],
+    "mentions": 1
+  },
+  "LAIP": {
+    "text": "LAIP",
+    "type": "METHOD",
+    "papers": [
+      "1812.04814v1"
+    ],
+    "mentions": 1
+  },
+  "ResNet": {
+    "text": "ResNet",
+    "type": "METHOD",
+    "papers": [
+      "2501.06564v1"
+    ],
+    "mentions": 1
+  },
+  "sRNN": {
+    "text": "sRNN",
+    "type": "METHOD",
+    "papers": [
+      "2501.06564v1"
+    ],
+    "mentions": 1
+  },
+  "PyThaiNLP": {
+    "text": "PyThaiNLP",
+    "type": "METHOD",
+    "papers": [
+      "2312.04649v1"
+    ],
+    "mentions": 1
+  },
+  "NLTK": {
+    "text": "NLTK",
+    "type": "METHOD",
+    "papers": [
+      "2312.04649v1"
+    ],
+    "mentions": 1
+  },
+  "OpenNLP": {
+    "text": "OpenNLP",
+    "type": "METHOD",
+    "papers": [
+      "2312.04649v1"
+    ],
+    "mentions": 1
+  },
+  "BEST-2009 corpus": {
+    "text": "BEST-2009 corpus",
+    "type": "DATASET",
+    "papers": [
+      "2312.04649v1"
+    ],
+    "mentions": 1
+  },
+  "BEST-2010 word segmentation dataset": {
+    "text": "BEST-2010 word segmentation dataset",
+    "type": "DATASET",
+    "papers": [
+      "2312.04649v1"
+    ],
+    "mentions": 1
+  },
+  "GPT2": {
+    "text": "GPT2",
+    "type": "DATASET",
+    "papers": [
+      "2310.17010v1"
+    ],
+    "mentions": 1
+  },
+  "MPNet": {
+    "text": "MPNet",
+    "type": "DATASET",
+    "papers": [
+      "2310.17010v1"
+    ],
+    "mentions": 1
+  },
+  "AG News": {
+    "text": "AG News",
+    "type": "DATASET",
+    "papers": [
+      "2310.17010v1"
+    ],
+    "mentions": 1
+  },
+  "RT Polarity": {
+    "text": "RT Polarity",
+    "type": "DATASET",
+    "papers": [
+      "2310.17010v1"
+    ],
+    "mentions": 1
+  },
+  "BRON": {
+    "text": "BRON",
+    "type": "DATASET",
+    "papers": [
+      "2108.02618v1"
+    ],
+    "mentions": 1
+  },
+  "ATT&CK": {
+    "text": "ATT&CK",
+    "type": "DATASET",
+    "papers": [
+      "2108.02618v1"
+    ],
+    "mentions": 1
+  },
+  "CAPEC": {
+    "text": "CAPEC",
+    "type": "DATASET",
+    "papers": [
+      "2108.02618v1"
+    ],
+    "mentions": 1
+  },
+  "CWE": {
+    "text": "CWE",
+    "type": "DATASET",
+    "papers": [
+      "2108.02618v1"
+    ],
+    "mentions": 1
+  },
+  "CVE": {
+    "text": "CVE",
+    "type": "DATASET",
+    "papers": [
+      "2108.02618v1"
+    ],
+    "mentions": 1
+  },
+  "Bayesian Reflex": {
+    "text": "Bayesian Reflex",
+    "type": "METHOD",
+    "papers": [
+      "2608.00492v1"
+    ],
+    "mentions": 1
+  },
+  "Predictive Coding": {
+    "text": "Predictive Coding",
+    "type": "THEORY",
+    "papers": [
+      "2608.00492v1"
+    ],
+    "mentions": 1
+  },
+  "Enterprise AI Canvas": {
+    "text": "Enterprise AI Canvas",
+    "type": "METHOD",
+    "papers": [
+      "2009.11190v1"
+    ],
+    "mentions": 1
+  },
+  "Business Model Canvas": {
+    "text": "Business Model Canvas",
+    "type": "METHOD",
+    "papers": [
+      "2009.11190v1"
+    ],
+    "mentions": 1
+  },
+  "Machine Learning Canvas": {
+    "text": "Machine Learning Canvas",
+    "type": "METHOD",
+    "papers": [
+      "2009.11190v1"
+    ],
+    "mentions": 1
+  },
+  "AI Project Canvas": {
+    "text": "AI Project Canvas",
+    "type": "METHOD",
+    "papers": [
+      "2009.11190v1"
+    ],
+    "mentions": 1
+  },
+  "MEMe": {
+    "text": "MEMe",
+    "type": "METHOD",
+    "papers": [
+      "1906.01101v1"
+    ],
+    "mentions": 1
+  },
+  "Rule of Thumb": {
+    "text": "Rule of Thumb",
+    "type": "METHOD",
+    "papers": [
+      "2608.10766v2"
+    ],
+    "mentions": 1
+  },
+  "Bias-Aware Methodology": {
+    "text": "Bias-Aware Methodology",
+    "type": "METHOD",
+    "papers": [
+      "2011.05911v1"
+    ],
+    "mentions": 1
+  },
+  "WordSim353": {
+    "text": "WordSim353",
+    "type": "DATASET",
+    "papers": [
+      "2005.03812v1"
+    ],
+    "mentions": 1
+  },
+  "SimLex999": {
+    "text": "SimLex999",
+    "type": "DATASET",
+    "papers": [
+      "2005.03812v1"
+    ],
+    "mentions": 1
+  },
+  "SimVerb3500": {
+    "text": "SimVerb3500",
+    "type": "DATASET",
+    "papers": [
+      "2005.03812v1"
+    ],
+    "mentions": 1
+  },
+  "OAK4XAI": {
+    "text": "OAK4XAI",
+    "type": "METHOD",
+    "papers": [
+      "2209.15104v1"
+    ],
+    "mentions": 1
+  },
+  "AgriComO": {
+    "text": "AgriComO",
+    "type": "DATASET",
+    "papers": [
+      "2209.15104v1"
+    ],
+    "mentions": 1
+  },
+  "Random Forest": {
+    "text": "Random Forest",
+    "type": "METHOD",
+    "papers": [
+      "1809.05889v1"
+    ],
+    "mentions": 1
+  },
+  "Deep Neural Network (DNN)": {
+    "text": "Deep Neural Network (DNN)",
+    "type": "METHOD",
+    "papers": [
+      "1809.05889v1"
+    ],
+    "mentions": 1
+  },
+  "Malicia project": {
+    "text": "Malicia project",
+    "type": "DATASET",
+    "papers": [
+      "1809.05889v1"
+    ],
+    "mentions": 1
+  },
+  "ALERT-Transformer": {
+    "text": "ALERT-Transformer",
+    "type": "METHOD",
+    "papers": [
+      "2402.01393v3"
+    ],
+    "mentions": 1
+  },
+  "PointNet": {
+    "text": "PointNet",
+    "type": "METHOD",
+    "papers": [
+      "2402.01393v3"
+    ],
+    "mentions": 1
+  },
+  "PGM": {
+    "text": "PGM",
+    "type": "METHOD",
+    "papers": [
+      "2310.09243v1"
+    ],
+    "mentions": 1
+  },
+  "BBN": {
+    "text": "BBN",
+    "type": "METHOD",
+    "papers": [
+      "2310.09243v1"
+    ],
+    "mentions": 1
+  },
+  "SMART": {
+    "text": "SMART",
+    "type": "METHOD",
+    "papers": [
+      "2101.04255v6"
+    ],
+    "mentions": 1
+  },
+  "Latent Semantic Analysis": {
+    "text": "Latent Semantic Analysis",
+    "type": "METHOD",
+    "papers": [
+      "2101.04255v6"
+    ],
+    "mentions": 1
+  },
+  "MYCIN": {
+    "text": "MYCIN",
+    "type": "DATASET",
+    "papers": [
+      "1407.7281v1"
+    ],
+    "mentions": 1
+  },
+  "INTERNIST-I": {
+    "text": "INTERNIST-I",
+    "type": "DATASET",
+    "papers": [
+      "1407.7281v1"
+    ],
+    "mentions": 1
+  },
+  "MAST": {
+    "text": "MAST",
+    "type": "METHOD",
+    "papers": [
+      "2111.02001v1"
+    ],
+    "mentions": 1
+  },
+  "MIMIC-III": {
+    "text": "MIMIC-III",
+    "type": "DATASET",
+    "papers": [
+      "1910.02545v1",
+      "1810.13348v4"
+    ],
+    "mentions": 2
+  },
+  "DBPedia": {
+    "text": "DBPedia",
+    "type": "METHOD",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Google Knowledge Graph": {
+    "text": "Google Knowledge Graph",
+    "type": "METHOD",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "BabelNet": {
+    "text": "BabelNet",
+    "type": "METHOD",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "YAGO": {
+    "text": "YAGO",
+    "type": "METHOD",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Open Academic Graph": {
+    "text": "Open Academic Graph",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Scholarly-data.org": {
+    "text": "Scholarly-data.org",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Microsoft Academic Graph": {
+    "text": "Microsoft Academic Graph",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Scopus": {
+    "text": "Scopus",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Semantic Scholar": {
+    "text": "Semantic Scholar",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Aminer": {
+    "text": "Aminer",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Core": {
+    "text": "Core",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "OpenCitations": {
+    "text": "OpenCitations",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "Dimensions": {
+    "text": "Dimensions",
+    "type": "DATASET",
+    "papers": [
+      "2011.01103v1"
+    ],
+    "mentions": 1
+  },
+  "POLARIS": {
+    "text": "POLARIS",
+    "type": "METHOD",
+    "papers": [
+      "2601.11816v1"
+    ],
+    "mentions": 1
+  },
+  "SROIE": {
+    "text": "SROIE",
+    "type": "DATASET",
+    "papers": [
+      "2601.11816v1"
+    ],
+    "mentions": 1
+  },
+  "HIT-AI": {
+    "text": "HIT-AI",
+    "type": "METHOD",
+    "papers": [
+      "1710.08191v1"
+    ],
+    "mentions": 1
+  },
+  "EML": {
+    "text": "EML",
+    "type": "METHOD",
+    "papers": [
+      "2111.07508v1"
+    ],
+    "mentions": 1
+  },
+  "INNA": {
+    "text": "INNA",
+    "type": "METHOD",
+    "papers": [
+      "1905.12278v6"
+    ],
+    "mentions": 1
+  },
+  "SGD": {
+    "text": "SGD",
+    "type": "METHOD",
+    "papers": [
+      "1905.12278v6"
+    ],
+    "mentions": 1
+  },
+  "ADAGRAD": {
+    "text": "ADAGRAD",
+    "type": "METHOD",
+    "papers": [
+      "1905.12278v6"
+    ],
+    "mentions": 1
+  },
+  "ADAM": {
+    "text": "ADAM",
+    "type": "METHOD",
+    "papers": [
+      "1905.12278v6"
+    ],
+    "mentions": 1
+  },
+  "SCANet": {
+    "text": "SCANet",
+    "type": "METHOD",
+    "papers": [
+      "2302.04143v2"
+    ],
+    "mentions": 1
+  },
+  "LIME": {
+    "text": "LIME",
+    "type": "METHOD",
+    "papers": [
+      "1606.05386v1",
+      "1907.12669v1",
+      "2411.00846v1"
+    ],
+    "mentions": 3
+  },
+  "Shapley Values": {
+    "text": "Shapley Values",
+    "type": "METHOD",
+    "papers": [
+      "1907.12669v1"
+    ],
+    "mentions": 1
+  },
+  "Pascal VOC": {
+    "text": "Pascal VOC",
+    "type": "DATASET",
+    "papers": [
+      "1711.00146v1"
+    ],
+    "mentions": 1
+  },
+  "Stanford Drone Dataset": {
+    "text": "Stanford Drone Dataset",
+    "type": "DATASET",
+    "papers": [
+      "1711.00146v1"
+    ],
+    "mentions": 1
+  },
+  "Okutama/Swiss": {
+    "text": "Okutama/Swiss",
+    "type": "DATASET",
+    "papers": [
+      "1711.00146v1"
+    ],
+    "mentions": 1
+  },
+  "GISTIC": {
+    "text": "GISTIC",
+    "type": "METHOD",
+    "papers": [
+      "1811.10455v1"
+    ],
+    "mentions": 1
+  },
+  "AlphaD3M": {
+    "text": "AlphaD3M",
+    "type": "METHOD",
+    "papers": [
+      "1905.10345v1"
+    ],
+    "mentions": 1
+  },
+  "SentiWordNet": {
+    "text": "SentiWordNet",
+    "type": "METRIC",
+    "papers": [
+      "2302.02291v3"
+    ],
+    "mentions": 1
+  },
+  "Vader": {
+    "text": "Vader",
+    "type": "METRIC",
+    "papers": [
+      "2302.02291v3"
+    ],
+    "mentions": 1
+  },
+  "TextBlob": {
+    "text": "TextBlob",
+    "type": "METRIC",
+    "papers": [
+      "2302.02291v3"
+    ],
+    "mentions": 1
+  },
+  "kNN": {
+    "text": "kNN",
+    "type": "METHOD",
+    "papers": [
+      "1901.00246v2"
+    ],
+    "mentions": 1
+  },
+  "ML-Schema": {
+    "text": "ML-Schema",
+    "type": "METHOD",
+    "papers": [
+      "1807.05351v1"
+    ],
+    "mentions": 1
+  },
+  "Keras": {
+    "text": "Keras",
+    "type": "FRAMEWORK",
+    "papers": [
+      "2108.08712v1"
+    ],
+    "mentions": 1
+  },
+  "TensorFlow": {
+    "text": "TensorFlow",
+    "type": "FRAMEWORK",
+    "papers": [
+      "2108.08712v1"
+    ],
+    "mentions": 1
+  },
+  "PyTorch": {
+    "text": "PyTorch",
+    "type": "FRAMEWORK",
+    "papers": [
+      "2108.08712v1"
+    ],
+    "mentions": 1
+  },
+  "MA": {
+    "text": "MA",
+    "type": "METHOD",
+    "papers": [
+      "1901.09697v5"
+    ],
+    "mentions": 1
+  },
+  "GluonCV": {
+    "text": "GluonCV",
+    "type": "METHOD",
+    "papers": [
+      "1907.04433v2"
+    ],
+    "mentions": 1
+  },
+  "GluonNLP": {
+    "text": "GluonNLP",
+    "type": "METHOD",
+    "papers": [
+      "1907.04433v2"
+    ],
+    "mentions": 1
+  },
+  "Apache MXNet": {
+    "text": "Apache MXNet",
+    "type": "DATASET",
+    "papers": [
+      "1907.04433v2"
+    ],
+    "mentions": 1
+  },
+  "AlphaFold": {
+    "text": "AlphaFold",
+    "type": "METHOD",
+    "papers": [
+      "2403.17561v9"
+    ],
+    "mentions": 1
+  },
+  "OpenAI GPT": {
+    "text": "OpenAI GPT",
+    "type": "METHOD",
+    "papers": [
+      "2403.17561v9"
+    ],
+    "mentions": 1
+  },
+  "Google Gemini": {
+    "text": "Google Gemini",
+    "type": "METHOD",
+    "papers": [
+      "2403.17561v9"
+    ],
+    "mentions": 1
+  },
+  "IBM Watsonx": {
+    "text": "IBM Watsonx",
+    "type": "METHOD",
+    "papers": [
+      "2403.17561v9"
+    ],
+    "mentions": 1
+  },
+  "\u03b1-mixtures": {
+    "text": "\u03b1-mixtures",
+    "type": "METHOD",
+    "papers": [
+      "1206.6443v2"
+    ],
+    "mentions": 1
+  },
+  "Machine Learning Markets": {
+    "text": "Machine Learning Markets",
+    "type": "METHOD",
+    "papers": [
+      "1206.6443v2"
+    ],
+    "mentions": 1
+  },
+  "Tangri": {
+    "text": "Tangri",
+    "type": "METHOD",
+    "papers": [
+      "1911.07679v1"
+    ],
+    "mentions": 1
+  },
+  "Electronic Health Records (EHR)": {
+    "text": "Electronic Health Records (EHR)",
+    "type": "DATASET",
+    "papers": [
+      "1911.07679v1"
+    ],
+    "mentions": 1
+  },
+  "Cyclic Boosting": {
+    "text": "Cyclic Boosting",
+    "type": "METHOD",
+    "papers": [
+      "2002.03425v3"
+    ],
+    "mentions": 1
+  },
+  "CFAA": {
+    "text": "CFAA",
+    "type": "DATASET",
+    "papers": [
+      "1810.10731v3"
+    ],
+    "mentions": 1
+  },
+  "PePR": {
+    "text": "PePR",
+    "type": "METHOD",
+    "papers": [
+      "2403.12562v2"
+    ],
+    "mentions": 1
+  },
+  "CRISP-DM": {
+    "text": "CRISP-DM",
+    "type": "METHOD",
+    "papers": [
+      "2003.05155v2"
+    ],
+    "mentions": 1
+  },
+  "MC dropout": {
+    "text": "MC dropout",
+    "type": "METHOD",
+    "papers": [
+      "1811.09385v2"
+    ],
+    "mentions": 1
+  },
+  "VMG": {
+    "text": "VMG",
+    "type": "METHOD",
+    "papers": [
+      "1811.09385v2"
+    ],
+    "mentions": 1
+  },
+  "HS-BNN": {
+    "text": "HS-BNN",
+    "type": "METHOD",
+    "papers": [
+      "1811.09385v2"
+    ],
+    "mentions": 1
+  },
+  "PBP-MV": {
+    "text": "PBP-MV",
+    "type": "METHOD",
+    "papers": [
+      "1811.09385v2"
+    ],
+    "mentions": 1
+  },
+  "SGHMC": {
+    "text": "SGHMC",
+    "type": "METHOD",
+    "papers": [
+      "1811.09385v2"
+    ],
+    "mentions": 1
+  },
+  "AutoML-Zero": {
+    "text": "AutoML-Zero",
+    "type": "METHOD",
+    "papers": [
+      "2003.03384v2"
+    ],
+    "mentions": 1
+  },
+  "CIFAR-10": {
+    "text": "CIFAR-10",
+    "type": "DATASET",
+    "papers": [
+      "2003.03384v2",
+      "2502.12222v2"
+    ],
+    "mentions": 2
+  },
+  "Medidata's Electronic Data Capture (EDC) system": {
+    "text": "Medidata's Electronic Data Capture (EDC) system",
+    "type": "DATASET",
+    "papers": [
+      "2111.07407v1"
+    ],
+    "mentions": 1
+  },
+  "AACT database (CTTI)": {
+    "text": "AACT database (CTTI)",
+    "type": "DATASET",
+    "papers": [
+      "2111.07407v1"
+    ],
+    "mentions": 1
+  },
+  "The World Bank Group (World Bank)": {
+    "text": "The World Bank Group (World Bank)",
+    "type": "DATASET",
+    "papers": [
+      "2111.07407v1"
+    ],
+    "mentions": 1
+  },
+  "ARIMA": {
+    "text": "ARIMA",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "TimeGPT": {
+    "text": "TimeGPT",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "LGBM": {
+    "text": "LGBM",
+    "type": "METHOD",
+    "papers": [
+      "2603.29261v1",
+      "2605.09842v1"
+    ],
+    "mentions": 2
+  },
+  "RNNs": {
+    "text": "RNNs",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "Transformers": {
+    "text": "Transformers",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "M4": {
+    "text": "M4",
+    "type": "DATASET",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "ES-RNN": {
+    "text": "ES-RNN",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "NBEATS": {
+    "text": "NBEATS",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "NHITS": {
+    "text": "NHITS",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "DeepAR": {
+    "text": "DeepAR",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "TFT": {
+    "text": "TFT",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "Fedformer": {
+    "text": "Fedformer",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "Autoformer": {
+    "text": "Autoformer",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "Informer": {
+    "text": "Informer",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "PatchTST": {
+    "text": "PatchTST",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "Pyraformer": {
+    "text": "Pyraformer",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "iTransformer": {
+    "text": "iTransformer",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "DLinear": {
+    "text": "DLinear",
+    "type": "METHOD",
+    "papers": [
+      "2605.09842v1"
+    ],
+    "mentions": 1
+  },
+  "Grid Search": {
+    "text": "Grid Search",
+    "type": "METHOD",
+    "papers": [
+      "2410.22854v3"
+    ],
+    "mentions": 1
+  },
+  "Random Search": {
+    "text": "Random Search",
+    "type": "METHOD",
+    "papers": [
+      "2410.22854v3"
+    ],
+    "mentions": 1
+  },
+  "Quasi-Random Search": {
+    "text": "Quasi-Random Search",
+    "type": "METHOD",
+    "papers": [
+      "2410.22854v3"
+    ],
+    "mentions": 1
+  },
+  "Bayesian Optimization": {
+    "text": "Bayesian Optimization",
+    "type": "METHOD",
+    "papers": [
+      "2410.22854v3"
+    ],
+    "mentions": 1
+  },
+  "WHI 2016": {
+    "text": "WHI 2016",
+    "type": "DATASET",
+    "papers": [
+      "1606.05386v1"
+    ],
+    "mentions": 1
+  },
+  "KLayout": {
+    "text": "KLayout",
+    "type": "TOOL",
+    "papers": [
+      "1912.05796v1"
+    ],
+    "mentions": 1
+  },
+  "FEDERATED-AUTONOMOUS DEEP LEARNING (FADL)": {
+    "text": "FEDERATED-AUTONOMOUS DEEP LEARNING (FADL)",
+    "type": "METHOD",
+    "papers": [
+      "1811.11400v2"
+    ],
+    "mentions": 1
+  },
+  "InfoGram": {
+    "text": "InfoGram",
+    "type": "METHOD",
+    "papers": [
+      "2108.07380v2"
+    ],
+    "mentions": 1
+  },
+  "L-Features": {
+    "text": "L-Features",
+    "type": "METHOD",
+    "papers": [
+      "2108.07380v2"
+    ],
+    "mentions": 1
+  },
+  "ALFA-testing": {
+    "text": "ALFA-testing",
+    "type": "METHOD",
+    "papers": [
+      "2108.07380v2"
+    ],
+    "mentions": 1
+  },
+  "COREml": {
+    "text": "COREml",
+    "type": "METHOD",
+    "papers": [
+      "2108.07380v2"
+    ],
+    "mentions": 1
+  },
+  "FINEml": {
+    "text": "FINEml",
+    "type": "METHOD",
+    "papers": [
+      "2108.07380v2"
+    ],
+    "mentions": 1
+  },
+  "LLaMA v3.1 (8B)": {
+    "text": "LLaMA v3.1 (8B)",
+    "type": "METHOD",
+    "papers": [
+      "2604.05345v1"
+    ],
+    "mentions": 1
+  },
+  "Sola Visibility ISPM Benchmark": {
+    "text": "Sola Visibility ISPM Benchmark",
+    "type": "DATASET",
+    "papers": [
+      "2601.07880v1"
+    ],
+    "mentions": 1
+  },
+  "AWS": {
+    "text": "AWS",
+    "type": "DATASET",
+    "papers": [
+      "2601.07880v1"
+    ],
+    "mentions": 1
+  },
+  "Okta": {
+    "text": "Okta",
+    "type": "DATASET",
+    "papers": [
+      "2601.07880v1"
+    ],
+    "mentions": 1
+  },
+  "Google Workspace": {
+    "text": "Google Workspace",
+    "type": "DATASET",
+    "papers": [
+      "2601.07880v1"
+    ],
+    "mentions": 1
+  },
+  "AIME": {
+    "text": "AIME",
+    "type": "ORGANIZATION",
+    "papers": [
+      "2406.18900v1"
+    ],
+    "mentions": 1
+  },
+  "NCME": {
+    "text": "NCME",
+    "type": "ORGANIZATION",
+    "papers": [
+      "2406.18900v1"
+    ],
+    "mentions": 1
+  },
+  "MIMIC-IV": {
+    "text": "MIMIC-IV",
+    "type": "DATASET",
+    "papers": [
+      "2411.10754v1"
+    ],
+    "mentions": 1
+  },
+  "KFRE-8": {
+    "text": "KFRE-8",
+    "type": "DATASET",
+    "papers": [
+      "2411.10754v1"
+    ],
+    "mentions": 1
+  },
+  "DriveML": {
+    "text": "DriveML",
+    "type": "METHOD",
+    "papers": [
+      "2005.00478v3"
+    ],
+    "mentions": 1
+  },
+  "CRAN": {
+    "text": "CRAN",
+    "type": "DATASET",
+    "papers": [
+      "2005.00478v3"
+    ],
+    "mentions": 1
+  },
+  "MAAIS": {
+    "text": "MAAIS",
+    "type": "METHOD",
+    "papers": [
+      "2512.18043v1"
+    ],
+    "mentions": 1
+  },
+  "MITRE ATLAS": {
+    "text": "MITRE ATLAS",
+    "type": "DATASET",
+    "papers": [
+      "2512.18043v1"
+    ],
+    "mentions": 1
+  },
+  "GREP": {
+    "text": "GREP",
+    "type": "DATASET",
+    "papers": [
+      "2409.14508v2"
+    ],
+    "mentions": 1
+  },
+  "TxGraffiti": {
+    "text": "TxGraffiti",
+    "type": "METHOD",
+    "papers": [
+      "2407.02731v1"
+    ],
+    "mentions": 1
+  },
+  "GRAFFITI": {
+    "text": "GRAFFITI",
+    "type": "METHOD",
+    "papers": [
+      "2407.02731v1"
+    ],
+    "mentions": 1
+  },
+  "Lale": {
+    "text": "Lale",
+    "type": "METHOD",
+    "papers": [
+      "2007.01977v1"
+    ],
+    "mentions": 1
+  },
+  "KNN": {
+    "text": "KNN",
+    "type": "METHOD",
+    "papers": [
+      "2512.13031v1"
+    ],
+    "mentions": 1
+  },
+  "RF": {
+    "text": "RF",
+    "type": "METHOD",
+    "papers": [
+      "2512.13031v1"
+    ],
+    "mentions": 1
+  },
+  "SVM": {
+    "text": "SVM",
+    "type": "METHOD",
+    "papers": [
+      "2512.13031v1",
+      "1907.07291v1"
+    ],
+    "mentions": 2
+  },
+  "CNN-LSTM": {
+    "text": "CNN-LSTM",
+    "type": "METHOD",
+    "papers": [
+      "2512.13031v1"
+    ],
+    "mentions": 1
+  },
+  "SULOV-Gradient Boosting Algorithm": {
+    "text": "SULOV-Gradient Boosting Algorithm",
+    "type": "METHOD",
+    "papers": [
+      "2302.02406v1"
+    ],
+    "mentions": 1
+  },
+  "CORD-19": {
+    "text": "CORD-19",
+    "type": "DATASET",
+    "papers": [
+      "2003.11336v3"
+    ],
+    "mentions": 1
+  },
+  "DOME": {
+    "text": "DOME",
+    "type": "METHOD",
+    "papers": [
+      "2006.16189v4"
+    ],
+    "mentions": 1
+  },
+  "AI100": {
+    "text": "AI100",
+    "type": "METHOD",
+    "papers": [
+      "2210.15767v1"
+    ],
+    "mentions": 1
+  },
+  "LOTUS": {
+    "text": "LOTUS",
+    "type": "METHOD",
+    "papers": [
+      "2510.07569v2"
+    ],
+    "mentions": 1
+  },
+  "AEC": {
+    "text": "AEC",
+    "type": "METHOD",
+    "papers": [
+      "2411.00846v1"
+    ],
+    "mentions": 1
+  },
+  "SHAP": {
+    "text": "SHAP",
+    "type": "METHOD",
+    "papers": [
+      "2411.00846v1"
+    ],
+    "mentions": 1
+  },
+  "STRON": {
+    "text": "STRON",
+    "type": "METHOD",
+    "papers": [
+      "1812.10426v3"
+    ],
+    "mentions": 1
+  },
+  "NN": {
+    "text": "NN",
+    "type": "METHOD",
+    "papers": [
+      "1907.07291v1"
+    ],
+    "mentions": 1
+  },
+  "DNN": {
+    "text": "DNN",
+    "type": "METHOD",
+    "papers": [
+      "1907.07291v1"
+    ],
+    "mentions": 1
+  },
+  "MNIST": {
+    "text": "MNIST",
+    "type": "DATASET",
+    "papers": [
+      "1907.07291v1"
+    ],
+    "mentions": 1
+  },
+  "CIFAR": {
+    "text": "CIFAR",
+    "type": "DATASET",
+    "papers": [
+      "1907.07291v1"
+    ],
+    "mentions": 1
+  },
+  "ImageNet": {
+    "text": "ImageNet",
+    "type": "DATASET",
+    "papers": [
+      "1907.07291v1"
+    ],
+    "mentions": 1
+  },
+  "Claude Sonnet": {
+    "text": "Claude Sonnet",
+    "type": "METHOD",
+    "papers": [
+      "2511.05625v2"
+    ],
+    "mentions": 1
+  },
+  "OGN": {
+    "text": "OGN",
+    "type": "DATASET",
+    "papers": [
+      "2007.08216v1"
+    ],
+    "mentions": 1
+  },
+  "GP": {
+    "text": "GP",
+    "type": "METHOD",
+    "papers": [
+      "2112.05000v1"
+    ],
+    "mentions": 1
+  },
+  "BNN": {
+    "text": "BNN",
+    "type": "METHOD",
+    "papers": [
+      "2112.05000v1"
+    ],
+    "mentions": 1
+  },
+  "MCDropout": {
+    "text": "MCDropout",
+    "type": "METHOD",
+    "papers": [
+      "2112.05000v1"
+    ],
+    "mentions": 1
+  },
+  "Airbnb": {
+    "text": "Airbnb",
+    "type": "DATASET",
+    "papers": [
+      "1907.12665v1"
+    ],
+    "mentions": 1
+  },
+  "DeepMC": {
+    "text": "DeepMC",
+    "type": "METHOD",
+    "papers": [
+      "2303.06049v1"
+    ],
+    "mentions": 1
+  },
+  "FarmBeats": {
+    "text": "FarmBeats",
+    "type": "PLATFORM",
+    "papers": [
+      "2303.06049v1"
+    ],
+    "mentions": 1
+  },
+  "IMPACTX": {
+    "text": "IMPACTX",
+    "type": "METHOD",
+    "papers": [
+      "2502.12222v2"
+    ],
+    "mentions": 1
+  },
+  "EfficientNet-B2": {
+    "text": "EfficientNet-B2",
+    "type": "MODEL",
+    "papers": [
+      "2502.12222v2"
+    ],
+    "mentions": 1
+  },
+  "MobileNet": {
+    "text": "MobileNet",
+    "type": "MODEL",
+    "papers": [
+      "2502.12222v2"
+    ],
+    "mentions": 1
+  },
+  "LeNet-5": {
+    "text": "LeNet-5",
+    "type": "MODEL",
+    "papers": [
+      "2502.12222v2"
+    ],
+    "mentions": 1
+  },
+  "CIFAR-100": {
+    "text": "CIFAR-100",
+    "type": "DATASET",
+    "papers": [
+      "2502.12222v2"
+    ],
+    "mentions": 1
+  },
+  "STL-10": {
+    "text": "STL-10",
+    "type": "DATASET",
+    "papers": [
+      "2502.12222v2"
+    ],
+    "mentions": 1
+  },
+  "AIDA": {
+    "text": "AIDA",
+    "type": "DATASET",
+    "papers": [
+      "2501.17676v1"
+    ],
+    "mentions": 1
+  },
+  "MalConv": {
+    "text": "MalConv",
+    "type": "METHOD",
+    "papers": [
+      "1903.04717v2"
+    ],
+    "mentions": 1
+  },
+  "BPI 2019": {
+    "text": "BPI 2019",
+    "type": "DATASET",
+    "papers": [
+      "2603.24582v1"
+    ],
+    "mentions": 1
+  },
+  "PACS": {
+    "text": "PACS",
+    "type": "DATASET",
+    "papers": [
+      "2412.01450v1"
+    ],
+    "mentions": 1
+  },
+  "IceNet": {
+    "text": "IceNet",
+    "type": "DATASET",
+    "papers": [
+      "1910.08922v1"
+    ],
+    "mentions": 1
+  },
+  "dalex": {
+    "text": "dalex",
+    "type": "METHOD",
+    "papers": [
+      "2012.14406v2"
+    ],
+    "mentions": 1
+  },
+  "SNIIRAM": {
+    "text": "SNIIRAM",
+    "type": "DATASET",
+    "papers": [
+      "1811.12234v1"
+    ],
+    "mentions": 1
+  },
+  "Monodense-DL network": {
+    "text": "Monodense-DL network",
+    "type": "METHOD",
+    "papers": [
+      "2603.29261v1"
+    ],
+    "mentions": 1
+  },
+  "DML": {
+    "text": "DML",
+    "type": "METHOD",
+    "papers": [
+      "2603.29261v1"
+    ],
+    "mentions": 1
+  },
+  "S-Learner": {
+    "text": "S-Learner",
+    "type": "METHOD",
+    "papers": [
+      "2407.19078v1"
+    ],
+    "mentions": 1
+  },
+  "B-Spline regression model": {
+    "text": "B-Spline regression model",
+    "type": "METHOD",
+    "papers": [
+      "2407.19078v1"
+    ],
+    "mentions": 1
+  },
+  "Alternating Direction Method of Multipliers (ADMM)": {
+    "text": "Alternating Direction Method of Multipliers (ADMM)",
+    "type": "METHOD",
+    "papers": [
+      "2407.19078v1"
+    ],
+    "mentions": 1
+  },
+  "Primal-Dual Interior Point Convex Optimization": {
+    "text": "Primal-Dual Interior Point Convex Optimization",
+    "type": "METHOD",
+    "papers": [
+      "2407.19078v1"
+    ],
+    "mentions": 1
+  },
+  "SmartChoices": {
+    "text": "SmartChoices",
+    "type": "METHOD",
+    "papers": [
+      "1810.00619v3"
+    ],
+    "mentions": 1
+  },
+  "Bayesian Prediction": {
+    "text": "Bayesian Prediction",
+    "type": "METHOD",
+    "papers": [
+      "1304.2717v1"
+    ],
+    "mentions": 1
+  },
+  "i2b2/UTHealth corpus": {
+    "text": "i2b2/UTHealth corpus",
+    "type": "DATASET",
+    "papers": [
+      "2312.03736v1"
+    ],
+    "mentions": 1
+  },
+  "2006 i2b2": {
+    "text": "2006 i2b2",
+    "type": "DATASET",
+    "papers": [
+      "2312.03736v1"
+    ],
+    "mentions": 1
+  },
+  "2016 CEGS N-GRID": {
+    "text": "2016 CEGS N-GRID",
+    "type": "DATASET",
+    "papers": [
+      "2312.03736v1"
+    ],
+    "mentions": 1
+  }
+}

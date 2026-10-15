@@ -1,0 +1,34 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Office / Word lock files & temp files
+.~lock.*
+*.tmp
+~$*
+*.docx
+*.pdf
+*.pptx
+!data/raw_pdfs/*.pdf
+
+# Project report documentation kept locally
+/*.md
+!README.md
+eval-page-*.jpg
+ziUnodDz
+zireAL9r
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
